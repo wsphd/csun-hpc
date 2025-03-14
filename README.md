@@ -130,7 +130,7 @@
 
 | Name          | Venue         | Cost         |Timeframe         |
 | ------------- | ------------- |------------- |------------- |
-| ![https://rcsi.swarthmore.edu/](RCSI)          | Swarthmore, PA  | $0 (NSF) | early June  | 
+| [RCSI](https://rcsi.swarthmore.edu/)          | Swarthmore, PA  | $0 (NSF) | early June  | 
 
 
 </details>
