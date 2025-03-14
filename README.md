@@ -1,4 +1,4 @@
-# Resources for High-Performance Computing (at no charge!)
+# High-Performance Computing (Resources and Capabilities)
 
 
 ![https://github.com/wsphd/csun-hpr](images/qr.svg "https://github.com/wsphd/csun-hpr")\
