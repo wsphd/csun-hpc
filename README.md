@@ -4,7 +4,7 @@
 ![https://github.com/wsphd/csun-hpr](images/qr.svg "https://github.com/wsphd/csun-hpr")\
 <https://github.com/wsphd/csun-hpr/>
 
-**<sup>th</sup> Annual "High-Performance Computing (Resources and Capabilities)**\
+**"High-Performance Computing (Resources and Capabilities)**\
 **California State University, Northirdge (CSUN)**
 
 **Friday, April 11, 2025**\
