@@ -31,6 +31,11 @@
   * NSF-funded, multi-year, inter-institution, STEAM/SocialSTEM, R3s/CCC's too
   * <https://www.csun.edu/it/technology-resources-research>
 
+
+<details>
+
+<summary>Jetstream2</summary>
+
 ## Jetstream2
 
 * Managed by Indiana University
@@ -51,6 +56,9 @@
 
 * Start here:
   * <https://jetstream-cloud.org/get-started/index.html>
+
+</details>
+
 
 ## Nautilus (part of the National Research Platform--NRP)
 
