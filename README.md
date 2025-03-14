@@ -1,14 +1,14 @@
 # Resources for High-Performance Computing (at no charge!)
 
 
-![https://github.com/wsphd/csun-gir](images/csun-gir.svg "https://github.com/wsphd/csun-gir")\
-<https://github.com/wsphd/csun-gir/>
+![https://github.com/wsphd/csun-hpr](images/qr.svg "https://github.com/wsphd/csun-hpr")\
+<https://github.com/wsphd/csun-hpr/>
 
-**7<sup>th</sup> Annual "Getting into Research" Event**\
-**Office of Undergraduate Research, California State University, Northirdge (CSUN)**
+**<sup>th</sup> Annual "High-Performance Computing (Resources and Capabilities)**\
+**California State University, Northirdge (CSUN)**
 
-**Friday, September 20, 2024**\
-**University Student Union (USU), Northridge Center**
+**Friday, April 11, 2025**\
+**CSUN Faculty Retreat - Odyssey Restaurant**
 
 **Zack Hillbruner, _Information Technology_, <zack.hillbruner@csun.edu>**
 
