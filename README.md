@@ -122,9 +122,9 @@
 
 <details>
 
-<summary>Conferences/Tutorials</summary>
+<summary>Conferences/Workshops</summary>
 
-## Conferences/Tutorials
+## Conferences/Workshops
 
 * There are plenty of zero-cost and low-cost resources for learning about HPR resources.
 
