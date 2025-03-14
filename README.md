@@ -22,19 +22,49 @@
 ## Introduction/Background
 
 * Some $\frac{n_i}{N}$ needs are $\le$ contemporary desktop/laptop and software
-  * But double-check new methodologies and growth (and movement) of data
+  * But double-check new methodologies and growth (and by extension, movement) of data
 
 * Some $\frac{n_j}{N}$ needs are $\gt$ contemporary desktop/laptop and software
-  * Essentially, "compute-intensive, data-intensive, network-intensive"
-  * Use FOSS (Linux, Open Source, etc.) to complement COTS (Windows, SPSS, etc.)
+  * Essentially, "compute-intensive, data-intensive, or network-intensive"
+  * Use primarily FOSS (Linux, Open Source, etc.) to complement COTS (Windows, SPSS, etc.)
+
+* Private, "on-premises" servers
+  * Usually purchased by an individual faculty member or Dept. (often with a grant or project)
+  * Usually located in the on-campus CSUN MDF
+  * IT racks and networks the system; Users manage the system and applications
 
 * Public Cloud (AWS, GCP, MS-Azure, OCI, Digital Ocean, etc.)
   * Use "free-tier"
-  * Pubchase credits w/ a credit card
+  * Purchase credits w/ a credit card
 
 * Or?
   * NSF-funded, multi-year, inter-institution, STEAM/SocialSTEM, R3s/CCC's too
   * <https://www.csun.edu/it/technology-resources-research>
+
+</details>
+
+
+<details>
+
+<summary>General Advanced Computing/Data Management</summary>
+
+## General Advanced Computing/Data Management
+
+* There are plenty of (non-HPR) advanced computing issues too (research and instruction)
+  * I'm happy to discuss these issues too but it's not the focus on this material
+
+* Example: Computing
+  * SPSS, Stata -> R or Python
+  * Matlab -> Julia
+  * Windows/MacOs _plus_ Linux
+  * Beyond replication -> Reproducibility (not just 'A' journals)
+
+* Example: Data
+  * "Big Data"
+  * research results can include output data (and perhaps even source data) too
+
+* Example: Technology Trends
+  * Campus Labs _plus_ Home Labs, Open Science, Open anything...
 
 </details>
 
