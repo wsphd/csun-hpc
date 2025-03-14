@@ -131,8 +131,8 @@
 | Name          | Venue         | Cost         |Timeframe         |
 | ------------- | ------------- |------------- |------------- |
 | [Research Computing at Smaller Institutions (RCSI)](https://rcsi.swarthmore.edu/)          | Swarthmore, PA  | $0 (NSF) | early June  | 
-| [OSG](https://osg-htc.org/school-2025/)          | U of Wisconsin-Madion, WI  | $0 (NSF) | late June  | 
-| [NRP](https://portal.nrp.ai/6nrp-workshop/)          | UCSD, CA  | $600 (NSF) | late January  | 
+| [Open Science Grig (OSG)](https://osg-htc.org/school-2025/)          | U of Wisconsin-Madion, WI  | $0 (NSF) | late June  | 
+| [National Research Platform (NRP)](https://portal.nrp.ai/6nrp-workshop/)          | UCSD, CA  | $600 (NSF) | late January  | 
 
 
 </details>
