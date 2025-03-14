@@ -14,6 +14,11 @@
 
 **Wayne Smith, Ph.D., _Department of Management_, <ws@csun.edu>**
 
+
+<details>
+
+<summary>Introduction/Background</summary>
+
 ## Introduction/Background
 
 * Some $\frac{n_i}{N}$ needs are $\le$ contemporary desktop/laptop and software
@@ -30,6 +35,8 @@
 * Or?
   * NSF-funded, multi-year, inter-institution, STEAM/SocialSTEM, R3s/CCC's too
   * <https://www.csun.edu/it/technology-resources-research>
+
+</details>
 
 
 <details>
@@ -60,6 +67,10 @@
 </details>
 
 
+<details>
+
+<summary>Nautilus (NRP)</summary>
+
 ## Nautilus (part of the National Research Platform--NRP)
 
 * Managed by University of California, San Diego
@@ -74,4 +85,6 @@
 
 * Start here:
   * Send Wayne an email - <ws@csun.edu>
+
+</details>
 
