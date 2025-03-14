@@ -50,13 +50,12 @@
 
 ## General Advanced Computing/Data Management
 
-* There are plenty of (non-HPR) advanced computing issues too (research and instruction)
-  * I'm happy to discuss these issues too but it's not the focus on this material
+* There are plenty of (non-HPR) advanced computing issues too (research and instruction).
 
 * Example: Computing
   * SPSS, Stata -> R or Python
   * Matlab -> Julia
-  * Windows/MacOs _plus_ Linux
+  * Windows/MacOs _plus_ Linux, Excel -> LibreOffice, etc.
   * Beyond replication -> Reproducibility (not just 'A' journals)
 
 * Example: Data
@@ -64,7 +63,9 @@
   * research results can include output data (and perhaps even source data) too
 
 * Example: Technology Trends
-  * Campus Labs _plus_ Home Labs, Open Science, Open anything...
+  * Campus Labs _plus_ Home Labs, Open Science, Open Research, Open Data, Open anything...
+
+* I'm happy to discuss these issues too but it's not the focus on this material.
 
 </details>
 
@@ -117,4 +118,21 @@
   * Send Wayne an email - <ws@csun.edu>
 
 </details>
+
+
+<details>
+
+<summary>Conferences/Tutorials</summary>
+
+## Conferences/Tutorials
+
+* There are plenty of zero-cost and low-cost resources for learning.
+
+| Name          | Venue         | Cost         |Timeframe         |
+| ------------- | ------------- |------------- |------------- |
+| ![https://rcsi.swarthmore.edu/](RCSI)          | Swarthmore, PA  | $0 (NSF) | early June  | 
+
+
+</details>
+
 
