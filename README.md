@@ -54,8 +54,9 @@
 * There are plenty of (non-HPR) advanced computing issues too (research and instruction).
 
 * Ecosystem Transition: Compute
-  * COTS (e.g., SPSS, Stata, MPlus, Matlab) -> FOSS (e.g., R, Python, Julia)
-  * Windows/MacOs _plus_ Linux, Excel -> LibreOffice, etc.
+  * COTS languages (e.g., SPSS, Stata, MPlus, Matlab) -> FOSS languages (e.g., R, Python, Julia)
+  * COTS spreadsheets (e.g., Excel ) -> FOSS spreadsheets(e.g., LibreOffice).
+  * Operating Systems (e.g., Windows/MacOs ) _plus_ Linux, Excel -> LibreOffice, etc.
   * Beyond replication -> Reproducibility (not just 'A' journals)
 
 * Ecosystem Transition: Data
