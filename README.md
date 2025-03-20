@@ -1,8 +1,8 @@
 # High-Performance Computing (Resources and Capabilities)
 
 
-![https://github.com/wsphd/csun-hpr](images/qr.svg "https://github.com/wsphd/csun-hpr")\
-<https://github.com/wsphd/csun-hpr/>
+![https://github.com/wsphd/csun-hpc](images/qr.svg "https://github.com/wsphd/csun-hpc")\
+<https://github.com/wsphd/csun-hpc/>
 
 **"High-Performance Computing (Resources and Capabilities)**\
 **California State University, Northirdge (CSUN)**
@@ -36,6 +36,7 @@
 * Public Cloud (AWS, GCP, MS-Azure, OCI, Digital Ocean, etc.)
   * Use "free-tier"
   * Purchase credits w/ a credit card
+  * Scholars can ask for resources for substantive reseearch
 
 * Or?
   * NSF-funded, multi-year, inter-institution, STEAM/SocialSTEM, R3s/CCC's too
@@ -52,13 +53,16 @@
 
 * There are plenty of (non-HPR) advanced computing issues too (research and instruction).
 
-* Example: Computing
-  * SPSS, Stata -> R or Python
-  * Matlab -> Julia
+* Ecosystem Transition: Compute
+  * COTS (e.g., SPSS, Stata, MPlus, Matlab) -> FOSS (e.g., R, Python, Julia)
   * Windows/MacOs _plus_ Linux, Excel -> LibreOffice, etc.
   * Beyond replication -> Reproducibility (not just 'A' journals)
 
-* Example: Data
+* Ecosystem Transition: Data
+  * "Big Data"
+  * research results can include output data (and perhaps even source data) too
+
+* Ecosystem Transition: Network
   * "Big Data"
   * research results can include output data (and perhaps even source data) too
 
@@ -92,6 +96,8 @@
   * SSH for logging int (and some learning curve for generating SSH keys and passphrases)
   * SCP for file transfer (after the SSH process is done)
 
+* (Live demo)
+
 * Start here:
   * <https://jetstream-cloud.org/get-started/index.html>
 
@@ -114,6 +120,8 @@
   * Kubernetes (open source client-server), you use the "kubectl" binary
   * You control just about everyting with ASCII ".yaml" files
 
+* (Static demo)
+
 * Start here:
   * Send Wayne an email - <ws@csun.edu>
 
@@ -122,18 +130,53 @@
 
 <details>
 
-<summary>Conferences/Workshops</summary>
+<summary>Conferences</summary>
 
-## Conferences/Workshops
+## Conferences
 
 * There are plenty of zero-cost and low-cost resources for learning about HPR resources.
 
 | Name          | Venue         | Cost         |Timeframe         |
 | ------------- | ------------- |------------- |------------- |
 | [Research Computing at Smaller Institutions (RCSI)](https://rcsi.swarthmore.edu/)          | Swarthmore, PA  | $0 (NSF) | early June  | 
+| [National Research Platform (NRP)](https://portal.nrp.ai/6nrp-workshop/)          | UCSD, CA  | $600 (NSF) | late January  | 
+
+</details>
+
+
+<details>
+
+<summary>Workshops</summary>
+
+## Workshops
+
+* There are plenty of zero-cost and low-cost resources for learning about HPR resources.
+
+| Name          | Venue         | Cost         |Timeframe         |
+| ------------- | ------------- |------------- |------------- |
 | [Open Science Grig (OSG)](https://osg-htc.org/school-2025/)          | U of Wisconsin-Madion, WI  | $0 (NSF) | late June  | 
 | [National Research Platform (NRP)](https://portal.nrp.ai/6nrp-workshop/)          | UCSD, CA  | $600 (NSF) | late January  | 
 
+</details>
+
+
+<details>
+
+<summary>Upskilling - Professional Associations/Societies</summary>
+
+## Upskilling - Professional Associations/Societies
+
+* Faculty - These HPC resources should be of use to Faculty over time.
+  * [R OpenSci (ROpenSci)](https://ropensci.org/)
+  * [PyOpenSci (pyOpenSci)](https://www.pyopensci.org/)
+  * [JuliaCon (annual Summer conference abstracts, proceedings)](https://juliacon.org/2025/)
+
+* Staff - These HPC resources should be of use to Staff over time.
+  * [US Research Software Engineering Association (US-RSE)](https://us-rse.org/)
+  * [Campus Research Computing Consortium (CaRCC)](https://carcc.org/)
+
+* Administration - These HPC resources should be of use to Administration over time.
+  * [Coalition for Academic Scientific Computing (CASC)](https://casc.org/)
 
 </details>
 
