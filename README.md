@@ -138,15 +138,21 @@
 * Sometimes, researchers just need an unmanaged or managed (by students, supervised by faculty) resource to host public-facing files and applications
   * [Oregon State University Open Source Lab (OSL)](https://osuosl.org/)
 
-* Increasingly, researchers want to experiment with real Quantum resources
-  * [D-Wave LEAP Quantum Launchpad/D-Wave Learn Program (D-Wave)](https://www.dwavequantum.com/learn/training/)
-
-* Recently, CSUN was added to the Cloudbank/2i2C JupyterHub resource (this complements Apporto and NRP/TIDE)
+* Recently, CSUN was added to the Cloudbank/2i2C JupyterHub resource (this complements CSUN Apporto and SDSU/CSUSB TIDE)
   * [Cal-ICOR JupyterHub Pilot](https://csun.cloudbank.2i2c.cloud/)
 
 * Increasingly, Libretexts is moving beyond "texts" and becoming a complete LMS solution, including a JupyterHub resource
   * General System - [LibreTexts](https://libretexts.org/)
   * Specific Application - [JupyterHub](https://jupyter.libretexts.org/hub/login)
+
+* Some researchers want to experiment with real Quantum resources
+  * [D-Wave LEAP Quantum Launchpad/D-Wave Learn Program (D-Wave)](https://www.dwavequantum.com/learn/training/)
+
+* Many researchers require an AI system that _is_ open, transparent, and reproducible (built _top-down_)
+  * [NSF National Artificial Intelligence Research Resource Pilot (NAIIR)](https://nairrpilot.org/)
+
+* Some researchers desire an AI system that _is_ open, transparent, and reproducible (built _bottom-up_)
+  * [Non-Profit Personal AI Lab (Kwaai)](https://www.kwaai.ai/)
 
 </details>
 
@@ -226,7 +232,9 @@
   * [R OpenSci (ROpenSci)](https://ropensci.org/)
   * [PyOpenSci (pyOpenSci)](https://www.pyopensci.org/)
   * [JuliaCon (annual Summer conference abstracts, proceedings)](https://juliacon.org/2025/)
+  * [Framework for Open and Reproducible Research Training (FORRT)](https://forrt.org/)
   * [Open Accelerated Computing (OpenACC) (C/C++ optimizations for research, annual Summer conference)](https://www.openacc.org/)
+  * (and check your discipline's pre-conference workshops and related conference themes for HPC events)
 
 * Staff - These HPC resources should be of use to _Staff_ over time.
   * [US Research Software Engineering Association (US-RSE)](https://us-rse.org/)
@@ -243,6 +251,10 @@
   * [ES NET (DOE)](https://www.es.net/)
   * [The Quilt](https://www.thequilt.net/)
   * [Fabric](https://portal.fabric-testbed.net/about/about-fabric)
+
+* Sundry - These open source resources should be of use to various individuals over time.
+  * [UC Open Source Program Offices)](https://www.socallinuxexpo.org/scale/22x/presentations/building-network-open-source-program-offices-university-california)
+  * [Professional Development for Instructors Interested in Student Participation in Humanitarian Free and Open Source Software (POSSE)](https://teachingopensource.org/POSSE)
 
 </details>
 
