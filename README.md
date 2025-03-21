@@ -19,7 +19,7 @@
 
 <summary>Introduction/Background/Motivation</summary>
 
-## Introduction/Background/Motivation
+## Introduction/Background/Motivation(#introduction-background-motivation)
 
 * Some $\frac{n_i}{N}$ needs are $\le$ contemporary desktop/laptop and software
   * But double-check new methodologies and growth (and by extension, movement) of data
@@ -49,7 +49,7 @@
 
 <summary>General Advanced Computing/Data Management</summary>
 
-## General Advanced Computing/Data Management
+## General Advanced Computing/Data Management(#general-advanced-computing-data-management)
 
 * There are plenty of (non-HPC) advanced computing issues too (research and instruction).
 
@@ -79,7 +79,7 @@
 
 <summary>Jetstream2</summary>
 
-## Jetstream2
+## Jetstream2(#jetstream2)
 
 * Managed by Indiana University
 
@@ -107,9 +107,9 @@
 
 <details>
 
-<summary>Nautilus (NRP)</summary>
+<summary>Nautilus/NRP</summary>
 
-## Nautilus (part of the National Research Platform--NRP)
+## Nautilus/NRP (#nautilus)
 
 * Managed by University of California, San Diego
 
@@ -133,7 +133,7 @@
 
 <summary>Additional Resources (at no charge)</summary>
 
-## Additional Resources (at no charge)
+## Additional Resources(#additional-resources)
 
 * Sometimes, researchers just need an unmanaged or managed (by students, supervised by faculty) resource to host public-facing files and applications
   * [Oregon State University Open Source Lab (OSL)](https://osuosl.org/)
@@ -155,7 +155,7 @@
 
 <summary>Conferences/Fellowships</summary>
 
-## Conferences
+## Conferences/Fellowships(#conferences-fellowships)
 
 * There are plenty of zero-cost and low-cost U.S. domestic events for learning about HPC resources at the _Application_-level.
 
@@ -192,7 +192,7 @@
 
 <summary>National Workshops</summary>
 
-## Natonal Workshops
+## Natonal Workshops(#national-workshops)
 
 * There are plenty of _in-person_ events for learning about HPR resources.
 
@@ -220,7 +220,7 @@
 
 <summary>Upskilling - Professional Associations/Societies</summary>
 
-## Upskilling - Professional Associations/Societies
+## Upskilling - Professional Associations/Societies(#professional-associations-societies)
 
 * Faculty - These HPC resources should be of use to _Faculty_ over time.
   * [R OpenSci (ROpenSci)](https://ropensci.org/)
