@@ -14,7 +14,7 @@
 
 **Wayne Smith, Ph.D., _Department of Management_, <ws@csun.edu>**
 
-(this page is also available in alternate formats - [.pdf](alt-formats/csun-hpc.pdf), [.odt](alt-formats/csun-hpc.odt), and [.docx](alt-formats/csun-hpc.docx)\
+(this page is also available in alternate formats - [.pdf](alt-formats/csun-hpc.pdf), [.odt](alt-formats/csun-hpc.odt), and [.docx](alt-formats/csun-hpc.docx)  
 
 
 <details>
