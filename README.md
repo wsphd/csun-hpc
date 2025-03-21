@@ -17,9 +17,9 @@
 
 <details>
 
-<summary>Introduction/Background</summary>
+<summary>Introduction/Background/Motivation</summary>
 
-## Introduction/Background
+## Introduction/Background/Motivation
 
 * Some $\frac{n_i}{N}$ needs are $\le$ contemporary desktop/laptop and software
   * But double-check new methodologies and growth (and by extension, movement) of data
@@ -131,16 +131,36 @@
 
 <details>
 
-<summary>Conferences</summary>
+<summary>Conferences/Fellowships</summary>
 
 ## Conferences
 
-* There are plenty of zero-cost and low-cost resources for learning about HPR resources.
+* There are plenty of zero-cost and low-cost U.S. domestic events for learning about HPR resources at the _Application_-level.
 
 | Name          | Venue         | Cost         |Timeframe         |
 | ------------- | ------------- |------------- |------------- |
-| [Research Computing at Smaller Institutions (RCSI)](https://rcsi.swarthmore.edu/)          | Swarthmore, PA  | $0 (NSF) | early June  | 
-| [National Research Platform (NRP)](https://portal.nrp.ai/6nrp-workshop/)          | UCSD, CA  | $600 (NSF) | late January  | 
+| [Practice & Experience in Advanced Research Computing (PEARC)](https://pearc.acm.org/)          | varies  | mid $ | late July | 
+| [Science Gateways (SGX3)](https://sciencegateways.org/gateways2025)          | varies  | $0 (NSF) | varies | 
+| [Institute for Mathematical and Statistical Innovation (IMSI)](https://www.imsi.institute/)          | varies  | $0 (NSF) | varies | 
+
+* There are plenty of zero-cost and low-cost U.S. domestic events for learning about HPR resources at the _Infrastructure_-level.
+
+| Name          | Venue         | Cost         |Timeframe         |
+| ------------- | ------------- |------------- |------------- |
+| [Research Computing at Smaller Institutions (RCSI)](https://rcsi.swarthmore.edu/)          | Swarthmore, PA  | $0 (NSF) | early June | 
+| [National Research Platform (NRP)](https://portal.nrp.ai/6nrp-workshop/)          | UCSD, CA  | $600 | late January | 
+| [Supercomputing (SC)](https://sc25.supercomputing.org/)          | St. Louis, Denver, Atlanta  | low $ | mid November | 
+| [Corporation for Networking and Research (CENIC)](https://cenic.org/events)          | varies  | low $ | late March | 
+| [Southern California Linux Expo (SCaLE)](https://www.socallinuxexpo.org/scale/22x)          | Pasadena, CA  | low $ | early March | 
+
+* And the list of _International_ events for learning about HPR resources is growing quickly.
+
+| Name          | Venue         | Cost         |Timeframe         |
+| ------------- | ------------- |------------- |------------- |
+| [CINI HPC Summer School (CINI)](https://www.hpcsummerschool.it/)          | Naples, Italy  | N/A | mid June | 
+
+* The following are some of the Fellowships available:
+  * [ICICLE: Intelligent CI with Computational Learning in the Environment (ICICLE)](https://icicle.osu.edu/education-and-outreach/icicle-educational-fellows-program)
 
 </details>
 
@@ -151,13 +171,24 @@
 
 ## Workshops
 
-* There are plenty of zero-cost and low-cost resources for learning about HPR resources.
+* There are plenty of _in-person_ events for learning about HPR resources.
 
 | Name          | Venue         | Cost         |Timeframe         |
 | ------------- | ------------- |------------- |------------- |
 | [Open Science Grig (OSG)](https://osg-htc.org/school-2025/)          | U of Wisconsin-Madion, WI  | $0 (NSF) | late June  | 
-| [National Research Platform (NRP)](https://portal.nrp.ai/6nrp-workshop/)          | UCSD, CA  | $600 (NSF) | late January  | 
+| [HPC and Data Science Summer Institute (SDSC)](https://na.eventscloud.com/website/83760/)          | UCSD, CA  | $350 | late July - early August | 
+| [NERSC International HPC Summer School (NERSC)](https://www.nersc.gov/users/training/events/2025/international-hpc-summer-school-july-2025/)          | varies  | $0 (DOE) | early July | 
 
+
+* There are plenty of _virtual_ events for learning about HPR resources.
+
+| Name          | Venue         | Cost         |Timeframe         |
+| ------------- | ------------- |------------- |------------- |
+| [OU Supercomputing Center for Education & Research (OU)](https://www.oscer.ou.edu/virtualresidency2024.php)          | virtual, synchronous | $0 (NSF) | late June  | 
+| [HPC Pathways (NCSA)](https://www.hpc-training.org/moodle/enrol/index.php?id=101)          | virtual, asynchronous | $0 | on-going | 
+| [Cornell Roadmaps](https://cvw.cac.cornell.edu/roadmaps)          | virtual  | $0 | asynchronous, on-going | 
+| [HPC Carpentry](https://www.hpc-carpentry.org/)          | in-person and virtual, synchronous  | $0 | varies | 
+| [(comprehensive, searchable list of resources](https://campuschampions.cyberinfrastructure.org/knowledge-base/resources)          | N/A  | $0 | varies | 
 </details>
 
 
@@ -167,16 +198,19 @@
 
 ## Upskilling - Professional Associations/Societies
 
-* Faculty - These HPC resources should be of use to Faculty over time.
+* Faculty - These HPC resources should be of use to _Faculty_ over time.
   * [R OpenSci (ROpenSci)](https://ropensci.org/)
   * [PyOpenSci (pyOpenSci)](https://www.pyopensci.org/)
   * [JuliaCon (annual Summer conference abstracts, proceedings)](https://juliacon.org/2025/)
+  * [Open Accelerated Computing (OpenACC) (C++ optimizations for research, annual Summer conference abstracts, proceedings)](https://www.openacc.org/)
 
-* Staff - These HPC resources should be of use to Staff over time.
+* Staff - These HPC resources should be of use to _Staff_ over time.
   * [US Research Software Engineering Association (US-RSE)](https://us-rse.org/)
   * [Campus Research Computing Consortium (CaRCC)](https://carcc.org/)
+  * [Campus Champions](https://campuschampions.cyberinfrastructure.org/)
+  * [OpenOnDemand](https://openondemand.org/)
 
-* Administration - These HPC resources should be of use to Administration over time.
+* Administration - These HPC resources should be of use to _Administration_ over time.
   * [Coalition for Academic Scientific Computing (CASC)](https://casc.org/)
 
 </details>
