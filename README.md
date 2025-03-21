@@ -131,7 +131,7 @@
 </details>
 
 
-</details>
+<details>
 
 <summary>Additional Resources (at no charge)</summary>
 
