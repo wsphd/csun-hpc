@@ -14,7 +14,7 @@
 
 **Wayne Smith, Ph.D., _Department of Management_, <ws@csun.edu>**
 
-this page is also available in alternate formats - [.pdf](alt-formats/csun-hpc.pdf), [.odt](alt-formats/csun-hpc.odt), and [.docx](alt-formats/csun-hpc.docx)  
+(Note: This page is also available in alternate formats - [.pdf](alt-formats/csun-hpc.pdf), [.odt](alt-formats/csun-hpc.odt), and [.docx](alt-formats/csun-hpc.docx))  
 
 
 <details>
@@ -56,6 +56,7 @@ this page is also available in alternate formats - [.pdf](alt-formats/csun-hpc.p
 * There are plenty of (non-HPC) advanced computing issues too (research and instruction).
 
 * Ecosystem Transition: Compute
+  * Beyond CPUs, there GPUs, FPGAs, DPUs, and others
   * COTS languages (e.g., SPSS, Stata, MPlus, Matlab) -> FOSS languages (e.g., R, Python, Julia)
   * COTS spreadsheets (e.g., Excel ) -> FOSS spreadsheets(e.g., LibreOffice).
   * Operating Systems (e.g., Windows/MacOs ) _plus_ Linux, Excel -> LibreOffice, etc.
@@ -63,16 +64,22 @@ this page is also available in alternate formats - [.pdf](alt-formats/csun-hpc.p
 
 * Ecosystem Transition: Data
   * "Big Data"
-  * research results can include output data (and perhaps even source data) too
+  * Research results can include output data (and perhaps even source data) too
+  * Desktop sizes (e.g., GiB, TiB) -> Beyond-Desktop sizes (e.g., PiB, ExiB)
+  * Human-readable file formats with no meta-data (e.g., CSV) -> Digital file formats with meta-data (e.g., Parquet)
+  * Monolith APIs (e.g., REST) -> Robust APIs (e.g., GraphQL)
+  * Single-file access (e.g., HTTPS) -> Multi-file 'buckets' (e.g., AWS/S3, GCS, Azure/Blog)
 
 * Ecosystem Transition: Network
-  * "Big Data"
-  * research results can include output data (and perhaps even source data) too
+  * "High Throughput"
+  * Big Data needs to be moved over fast, reliable networks
+  * CSUN 'Science DMZ'
+  * Los Angeles Public Library across the street from CSUN (>2x file transfer, symmetric)
 
 * Example: Technology Trends
   * Campus Labs _plus_ Home Labs, Open Science, Open Research, Open Data, Open anything...
 
-* I'm happy to discuss these issues too but it's not the focus on this material.
+* I'm happy to discuss these issues too but it's not the primary focus of this material.
 
 </details>
 
@@ -244,6 +251,7 @@ this page is also available in alternate formats - [.pdf](alt-formats/csun-hpc.p
   * [Campus Champions](https://campuschampions.cyberinfrastructure.org/)
   * [OpenOnDemand](https://openondemand.org/)
   * [Internet2 Research Engagement](https://internet2.edu/community/research-engagement/research-community/)
+  * [Internet2 NET+](https://internet2.edu/cloud/internet2-net-plus-services/)
   * [EduCause Research Computing and Data Community Group](https://www.educause.edu/community/research-computing-and-data-community-group)
 
 * Administration - These HPC resources should be of use to _Administration_ over time.
@@ -251,10 +259,14 @@ this page is also available in alternate formats - [.pdf](alt-formats/csun-hpc.p
 
 * Sundry - These HPC resources should be of use to various individuals over time.
   * [ES NET (DOE)](https://www.es.net/)
+  * [Globus](https://www.globus.org/)
   * [The Quilt](https://www.thequilt.net/)
   * [Fabric](https://portal.fabric-testbed.net/about/about-fabric)
 
-* Sundry - These open source resources should be of use to various individuals over time.
+* Sundry - These open source research-related resources should be of use to various individuals over time.
+  * [Research Data Alliance (RDA)](https://www.rd-alliance.org/)
+  * [Center for Open Science - Open Software Foundation (OSF)](https://osf.io/)
+  * [Digital Management Plan Tool (DMPTOOL)](https://dmptool.org/)
   * [UC Open Source Program Offices)](https://www.socallinuxexpo.org/scale/22x/presentations/building-network-open-source-program-offices-university-california)
   * [Professional Development for Instructors Interested in Student Participation in Humanitarian Free and Open Source Software (POSSE)](https://teachingopensource.org/POSSE)
 
