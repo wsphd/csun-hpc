@@ -131,20 +131,20 @@
 
 <details>
 
-<summary>Additional Resources</summary>
+<summary>Additional Resources (at no charge)</summary>
 
-## Additional Resources
+## Additional Resources (at no charge)
 
-* Sometimes, researchers just need a student-managed (or unmanaged, as needed) resource to host public-facing files and applications (at no charge)
+* Sometimes, researchers just need an unmanaged or managed (by students, supervised by faculty) resource to host public-facing files and applications
   * [Oregon State University Open Source Lab (OSL)](https://osuosl.org/)
 
-* Increasingly, researchers want to experiment with real Quantum resources (at no charge)
+* Increasingly, researchers want to experiment with real Quantum resources
   * [D-Wave LEAP Quantum Launchpad/D-Wave Learn Program (D-Wave)](https://www.dwavequantum.com/learn/training/)
 
-* Recently, CSUN was added to the Cloudbank/2i2C JupyterHub resource (at no charge) (this complements NRP/TIDE/SDSU)
+* Recently, CSUN was added to the Cloudbank/2i2C JupyterHub resource (this complements Apporto and NRP/TIDE)
   * [Cal-ICOR JupyterHub Pilot](https://csun.cloudbank.2i2c.cloud/)
 
-* Increasingly, Libretexts is moving beyond "texts" and becoming a complete LMS solution, including a JupyterHub resource (at no charge)
+* Increasingly, Libretexts is moving beyond "texts" and becoming a complete LMS solution, including a JupyterHub resource
   * General System - [LibreTexts](https://libretexts.org/)
   * Specific Application - [JupyterHub](https://jupyter.libretexts.org/hub/login)
 
@@ -163,6 +163,7 @@
 | ------------- | ------------- |------------- |------------- |
 | [Practice & Experience in Advanced Research Computing (PEARC)](https://pearc.acm.org/)          | varies  | mid $ | late July | 
 | [Science Gateways (SGX3)](https://sciencegateways.org/gateways2025)          | varies  | $0 (NSF) | varies | 
+| [Confab (DOE)](https://confab25.es.net/)          | varies  | low $ | early April | 
 | [Institute for Mathematical and Statistical Innovation (IMSI)](https://www.imsi.institute/)          | varies  | $0 (NSF) | varies | 
 
 * There are plenty of zero-cost and low-cost U.S. domestic events for learning about HPC resources at the _Infrastructure_-level.
@@ -225,16 +226,23 @@
   * [R OpenSci (ROpenSci)](https://ropensci.org/)
   * [PyOpenSci (pyOpenSci)](https://www.pyopensci.org/)
   * [JuliaCon (annual Summer conference abstracts, proceedings)](https://juliacon.org/2025/)
-  * [Open Accelerated Computing (OpenACC) (C++ optimizations for research, annual Summer conference abstracts, proceedings)](https://www.openacc.org/)
+  * [Open Accelerated Computing (OpenACC) (C/C++ optimizations for research, annual Summer conference)](https://www.openacc.org/)
 
 * Staff - These HPC resources should be of use to _Staff_ over time.
   * [US Research Software Engineering Association (US-RSE)](https://us-rse.org/)
   * [Campus Research Computing Consortium (CaRCC)](https://carcc.org/)
   * [Campus Champions](https://campuschampions.cyberinfrastructure.org/)
   * [OpenOnDemand](https://openondemand.org/)
+  * [Internet2 Research Engagement](https://internet2.edu/community/research-engagement/research-community/)
+  * [EduCause Research Computing and Data Community Group](https://www.educause.edu/community/research-computing-and-data-community-group)
 
 * Administration - These HPC resources should be of use to _Administration_ over time.
   * [Coalition for Academic Scientific Computing (CASC)](https://casc.org/)
+
+* Sundry - These HPC resources should be of use to various individuals over time.
+  * [ES NET (DOE)](https://www.es.net/)
+  * [The Quilt](https://www.thequilt.net/)
+  * [Fabric](https://portal.fabric-testbed.net/about/about-fabric)
 
 </details>
 
