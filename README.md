@@ -31,16 +31,16 @@
 * Private, "on-premises" servers
   * Usually purchased by an individual faculty member or Dept. (often with a grant or project)
   * Usually located in the on-campus CSUN MDF
-  * IT racks and networks the system; Users manage the system and applications
+  * CSUN IT usually racks and networks the system; Users manage the system and applications
 
 * Public Cloud (AWS, GCP, MS-Azure, OCI, Digital Ocean, etc.)
-  * Use "free-tier"
-  * Purchase credits w/ a credit card
+  * Use "free-tier" (still need to provide a credit card)
+  * Purchase credits with a credit card
   * Scholars can ask for resources for substantive reseearch
 
 * Or?
   * NSF-funded, multi-year, inter-institution, STEAM/SocialSTEM, R3s/CCC's too
-  * <https://www.csun.edu/it/technology-resources-research>
+  * [CSUN IT Technology Resources for Research](https://www.csun.edu/it/technology-resources-research)
 
 </details>
 
@@ -51,7 +51,7 @@
 
 ## General Advanced Computing/Data Management
 
-* There are plenty of (non-HPR) advanced computing issues too (research and instruction).
+* There are plenty of (non-HPC) advanced computing issues too (research and instruction).
 
 * Ecosystem Transition: Compute
   * COTS languages (e.g., SPSS, Stata, MPlus, Matlab) -> FOSS languages (e.g., R, Python, Julia)
@@ -100,7 +100,7 @@
 * (Live demo)
 
 * Start here:
-  * <https://jetstream-cloud.org/get-started/index.html>
+  * [Jetstream ACCESS page]<https://jetstream-cloud.org/get-started/index.html>
 
 </details>
 
@@ -131,11 +131,33 @@
 
 <details>
 
+<summary>Additional Resources</summary>
+
+## Additional Resources
+
+* Sometimes, researchers just need a student-managed (or unmanaged, as needed) resource to host public-facing files and applications (at no charge)
+  * [Oregon State University Open Source Lab (OSL)](https://osuosl.org/)
+
+* Increasingly, researchers want to experiment with real Quantum resources (at no charge)
+  * [D-Wave LEAP Quantum Launchpad/D-Wave Learn Program (D-Wave)](https://www.dwavequantum.com/learn/training/)
+
+* Recently, CSUN was added to the Cloudbank/2i2C JupyterHub resource (at no charge) (this complements NRP/TIDE/SDSU)
+  * [Cal-ICOR JupyterHub Pilot](https://csun.cloudbank.2i2c.cloud/)
+
+* Increasingly, Libretexts is moving beyond "texts" and becoming a complete LMS solution, including a JupyterHub resource (at no charge)
+  * General System - [LibreTexts](https://libretexts.org/)
+  * Specific Application - [JupyterHub](https://jupyter.libretexts.org/hub/login)
+
+</details>
+
+
+<details>
+
 <summary>Conferences/Fellowships</summary>
 
 ## Conferences
 
-* There are plenty of zero-cost and low-cost U.S. domestic events for learning about HPR resources at the _Application_-level.
+* There are plenty of zero-cost and low-cost U.S. domestic events for learning about HPC resources at the _Application_-level.
 
 | Name          | Venue         | Cost         |Timeframe         |
 | ------------- | ------------- |------------- |------------- |
@@ -143,7 +165,7 @@
 | [Science Gateways (SGX3)](https://sciencegateways.org/gateways2025)          | varies  | $0 (NSF) | varies | 
 | [Institute for Mathematical and Statistical Innovation (IMSI)](https://www.imsi.institute/)          | varies  | $0 (NSF) | varies | 
 
-* There are plenty of zero-cost and low-cost U.S. domestic events for learning about HPR resources at the _Infrastructure_-level.
+* There are plenty of zero-cost and low-cost U.S. domestic events for learning about HPC resources at the _Infrastructure_-level.
 
 | Name          | Venue         | Cost         |Timeframe         |
 | ------------- | ------------- |------------- |------------- |
@@ -167,9 +189,9 @@
 
 <details>
 
-<summary>Workshops</summary>
+<summary>National Workshops</summary>
 
-## Workshops
+## Natonal Workshops
 
 * There are plenty of _in-person_ events for learning about HPR resources.
 
@@ -178,6 +200,7 @@
 | [Open Science Grig (OSG)](https://osg-htc.org/school-2025/)          | U of Wisconsin-Madion, WI  | $0 (NSF) | late June  | 
 | [HPC and Data Science Summer Institute (SDSC)](https://na.eventscloud.com/website/83760/)          | UCSD, CA  | $350 | late July - early August | 
 | [NERSC International HPC Summer School (NERSC)](https://www.nersc.gov/users/training/events/2025/international-hpc-summer-school-july-2025/)          | varies  | $0 (DOE) | early July | 
+| [KNIT (FABRIC)](https://knit.fabric-testbed.net/)          | varies  | $0 (NSF) | mid March | 
 
 
 * There are plenty of _virtual_ events for learning about HPR resources.
