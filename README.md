@@ -67,6 +67,7 @@
   * Research results can include output data (and perhaps even source data) too
   * Desktop sizes (e.g., GiB, TiB) -> Beyond-Desktop sizes (e.g., PiB, ExiB)
   * Human-readable file formats with no meta-data (e.g., CSV) -> Digital file formats with meta-data (e.g., Parquet)
+  * Row-oriented databases (e.g., MariaSQL, PostgreSQL, SQLite, etc.) -> Column-oriented databases (e.g., DuckDB, MonetDB)
   * Monolith APIs (e.g., REST) -> Robust APIs (e.g., GraphQL)
   * Single-file access (e.g., HTTPS) -> Multi-file 'buckets' (e.g., AWS/S3, GCS, Azure/Blog)
 
@@ -74,7 +75,7 @@
   * "High Throughput"
   * Big Data needs to be moved over fast, reliable networks
   * CSUN 'Science DMZ'
-  * Los Angeles Public Library across the street from CSUN (>2x file transfer, symmetric)
+  * Los Angeles Public Library (LAPL) Northridge branch and Mid-Valley branch (>2x file transfer, symmetric)
 
 * Example: Technology Trends
   * Campus Labs _plus_ Home Labs, Open Science, Open Research, Open Data, Open anything...
