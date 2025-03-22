@@ -68,7 +68,7 @@
   * Research results can include output data (and perhaps even source data) too
   * Desktop sizes (e.g., GiB, TiB) -> Beyond-Desktop sizes (e.g., PiB, ExiB)
   * Human-readable file formats with no meta-data (e.g., CSV) -> Digital file formats with meta-data (e.g., Parquet)
-  * Row-oriented databases (e.g., MariaSQL, PostgreSQL, SQLite, etc.) -> Column-oriented databases (e.g., DuckDB, MonetDB)
+  * Row-oriented databases (e.g., MariaSQL, PostgreSQL, SQLite, etc.) -> Column-oriented databases (e.g., DuckDB, MonetDB, TileDB)
   * Monolith APIs (e.g., REST) -> Robust APIs (e.g., GraphQL)
   * Single-file access (e.g., HTTPS) -> Multi-file 'buckets' (e.g., AWS/S3, GCS, Azure/Blog)
 
