@@ -86,6 +86,51 @@
 
 <details>
 
+<summary>Faculty/Disciplines</summary>
+
+## >Faculty/Disciplines
+
+* CSUN is a big place--there are many faculty doing interesting things with HPC
+
+* Xunfei Jiang (Computer Science)
+  * on-premises HPC and OSG/NRP
+  * Cloud and Infrastructure design and management
+  * Workforce development (full stack)
+
+* Ravi Absol (Chemistry)
+  * NRP
+  * Molecular Dynamics
+  * undergraduate student (Anita) - uses AMBER software (with many GPUs, including NVIDIA A100s)
+  * one protein combinatorics imulation took 3 months on a laptop -- now takes ~ 3 weeks
+
+* Dr. Nicholas Kioussis (Physics)
+  * CalTech Quantum Computing (and others)
+  * Materials Science
+
+* Wayne Smith (Management)
+  * ACCESS and NRP
+  * Federal Communications Commission (FCC) Universal Licensing System (ULS) data
+  * Github - [R code](https://github.com/wsphd/fcculs)
+  * Data output - [multi-file data output](https://www.qsl.net/n/n6lhv//scma/fcculs/)
+
+* Other future CSUN projects
+  * CTVA - UNREAL (digital twins, gaming, 3D mapping)
+  * Digital Humanities
+
+* Representative CSU projects
+  * CSUSB - [High Performance Computing](https://www.csusb.edu/faculty-center-for-excellence/idat/high-performance-computing)
+  * Sonoma State
+  * CalPolyHumboldt
+
+* CSU help
+  * Dr. Dung Vu (CSUSB)
+  * Kyle Krick (SDSU)
+
+</details>
+
+
+<details>
+
 <summary>Jetstream2</summary>
 
 ## Jetstream2
