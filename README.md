@@ -57,7 +57,7 @@
 
 * Ecosystem Transition: Compute
   * Beyond CPUs, there GPUs, FPGAs, DPUs, and others
-  * COTS languages (e.g., SPSS, Stata, MPlus, Matlab) -> FOSS languages (e.g., R, Python, Julia)
+  * COTS languages (e.g., SPSS, Stata, MPlus, Matlab, NVivo) -> FOSS languages (e.g., R, Python, Julia)
   * Single-threaded execution -> Parallel execution
   * COTS spreadsheets (e.g., Excel ) -> FOSS spreadsheets(e.g., LibreOffice).
   * Operating Systems (e.g., Windows/MacOs ) _plus_ Linux, Excel -> LibreOffice, etc.
