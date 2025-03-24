@@ -260,7 +260,8 @@
 
 | Name          | Venue         | Cost         |Timeframe         |
 | ------------- | ------------- |------------- |------------- |
-| [Open Science Grig (OSG)](https://osg-htc.org/school-2025/)          | U of Wisconsin-Madion, WI  | $0 (NSF) | late June  | 
+| [Minority-Serving Cyberinfrastructure Capabilities (MS-CC)](https://ms-cc.org/)          | varies  | $0 (NSF) | late May | 
+| [Open Science Grig (OSG)](https://osg-htc.org/school-2025/)          | U of Wisconsin-Madion, WI  | $0 (NSF) | late June | 
 | [HPC and Data Science Summer Institute (SDSC)](https://na.eventscloud.com/website/83760/)          | UCSD, CA  | $350 | late July - early August | 
 | [NERSC International HPC Summer School (NERSC)](https://www.nersc.gov/users/training/events/2025/international-hpc-summer-school-july-2025/)          | varies  | $0 (DOE) | early July | 
 | [KNIT (FABRIC)](https://knit.fabric-testbed.net/)          | varies  | $0 (NSF) | mid March | 
