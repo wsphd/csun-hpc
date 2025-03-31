@@ -17,10 +17,6 @@
 (Note: This page is also available in alternate formats - [.pdf](alt-formats/csun-hpc.pdf), [.odt](alt-formats/csun-hpc.odt), and [.docx](alt-formats/csun-hpc.docx))  
 
 
-<details>
-
-<summary>Introduction/Background/Motivation</summary>
-
 ## Introduction/Background/Motivation
 
 * Some $\frac{n_i}{N}$ needs are $\le$ contemporary desktop/laptop and software
@@ -44,12 +40,6 @@
   * NSF-funded, multi-year, inter-institution, STEAM/SocialSTEM, R3s/CCC's too
   * [CSUN IT Technology Resources for Research](https://www.csun.edu/it/technology-resources-research)
 
-</details>
-
-
-<details>
-
-<summary>General Advanced Computing/Data Management</summary>
 
 ## General Advanced Computing/Data Management
 
@@ -83,12 +73,6 @@
 
 * I'm happy to discuss these issues too but it's not the primary focus of this material.
 
-</details>
-
-
-<details>
-
-<summary>Faculty/Disciplines</summary>
 
 ## >Faculty/Disciplines
 
@@ -128,12 +112,6 @@
   * Dr. Dung Vu (CSUSB)
   * Kyle Krick (SDSU)
 
-</details>
-
-
-<details>
-
-<summary>Jetstream2</summary>
 
 ## Jetstream2
 
@@ -158,12 +136,6 @@
 * Start here:
   * [Jetstream ACCESS page]<https://jetstream-cloud.org/get-started/index.html>
 
-</details>
-
-
-<details>
-
-<summary>Nautilus/NRP</summary>
 
 ## Nautilus/NRP
 
@@ -182,12 +154,6 @@
 * Start here:
   * Send Wayne an email - <ws@csun.edu>
 
-</details>
-
-
-<details>
-
-<summary>Additional Resources (at no charge)</summary>
 
 ## Additional Resources
 
@@ -210,12 +176,6 @@
 * Some researchers desire an AI system that _is_ open, transparent, and reproducible (built _bottom-up_)
   * [Non-Profit Personal AI Lab (Kwaai)](https://www.kwaai.ai/)
 
-</details>
-
-
-<details>
-
-<summary>Conferences/Fellowships</summary>
 
 ## Conferences/Fellowships
 
@@ -247,12 +207,6 @@
 * The following are some of the Fellowships available:
   * [ICICLE: Intelligent CI with Computational Learning in the Environment (ICICLE)](https://icicle.osu.edu/education-and-outreach/icicle-educational-fellows-program)
 
-</details>
-
-
-<details>
-
-<summary>National Workshops</summary>
 
 ## Natonal Workshops
 
@@ -276,12 +230,7 @@
 | [Cornell Roadmaps](https://cvw.cac.cornell.edu/roadmaps)          | virtual  | $0 | asynchronous, on-going | 
 | [HPC Carpentry](https://www.hpc-carpentry.org/)          | in-person and virtual, synchronous  | $0 | varies | 
 | [(comprehensive, searchable list of resources](https://campuschampions.cyberinfrastructure.org/knowledge-base/resources)          | N/A  | $0 | varies | 
-</details>
 
-
-<details>
-
-<summary>Upskilling - Professional Associations/Societies</summary>
 
 ## Upskilling - Professional Associations/Societies
 
@@ -318,6 +267,5 @@
   * [UC Open Source Program Offices)](https://www.socallinuxexpo.org/scale/22x/presentations/building-network-open-source-program-offices-university-california)
   * [Professional Development for Instructors Interested in Student Participation in Humanitarian Free and Open Source Software (POSSE)](https://teachingopensource.org/POSSE)
 
-</details>
 
 
