@@ -74,7 +74,7 @@
 * I'm happy to discuss these issues too but it's not the primary focus of this material.
 
 
-## >Faculty/Disciplines
+## Faculty/Disciplines
 
 * CSUN is a big place--there are many faculty doing interesting things with HPC
 
@@ -208,7 +208,7 @@
   * [ICICLE: Intelligent CI with Computational Learning in the Environment (ICICLE)](https://icicle.osu.edu/education-and-outreach/icicle-educational-fellows-program)
 
 
-## Natonal Workshops
+## National Workshops
 
 * There are plenty of _in-person_ events for learning about HPR resources.
 
