@@ -10,8 +10,6 @@
 **Friday, April 11, 2025**\
 **CSUN Faculty Retreat - Odyssey Restaurant**
 
-**Zack Hillbruner, _Information Technology_, <zack.hillbruner@csun.edu>**
-
 **Wayne Smith, Ph.D., _Department of Management_, <ws@csun.edu>**
 
 (Note: This page is also available in alternate formats - [.pdf](alt-formats/csun-hpc.pdf), [.odt](alt-formats/csun-hpc.odt), and [.docx](alt-formats/csun-hpc.docx))  
@@ -26,7 +24,7 @@
   * Essentially, "compute-intensive, data-intensive, or network-intensive"
   * Use primarily FOSS (Linux, Open Source, etc.) to complement COTS (Windows, SPSS, etc.)
 
-* Private, "on-premises" servers
+* Private, "on-premises" servers (contact: Zack Hillbruner, _Information Technology_, <zack.hillbruner@csun.edu>)
   * Usually purchased by an individual faculty member or Dept. (often with a grant or project)
   * Usually located in the on-campus CSUN MDF
   * CSUN IT usually racks and networks the system; Users manage the system and applications
