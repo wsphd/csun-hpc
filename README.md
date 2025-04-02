@@ -111,7 +111,31 @@
   * Kyle Krick (SDSU)
 
 
-## Jetstream2
+## JupyterHub
+
+* [Multi-user, interactive notebooks (including R, Python, Julia, etc.)]<https://jupyter.org/hub>
+
+* CSU Technology Infrastructure for Exploration ("TIDE")
+  * _governance_: funded by NSF, provisioned by Cloudbank, managed/supported by UC Berkeley 
+  * _hardware_: basic access
+  * _software_: R/RStudio, Python, Shiny, Linux terminal, generic notebooks
+  * _log in_: Select "California State University, Northridge" and then log in is via CILOGON (just log in as usual)
+  * Start here: [CAL-ICOR]<https://csun.cloudbank.2i2c.cloud/>
+
+* CSU Technology Infrastructure for Exploration ("TIDE")
+  * _governance_: funded by NSF, provisioned by NRP, managed/supported by SDSU
+  * _hardware_: can have access to multiple GPUs, multiple cores, lots of RAM, some (shareable) storage
+  * _software_: R/RStudio, Tensorflow, Datascience, generic notebooks, discipline-specific notebooks
+  * _log in_: log in is via CILOGON (just select "California State University, Northridge" and log in as usual)
+  * Start here: [CSUN TIDE]<https://tide.sdsu.edu/>
+
+* CSUN myCSUNSoftware (aka "Apporto")
+  * n/a (but other GUI and CLI software runs here)
+  * Faculty will need to ask for it over time
+  * Start here: [myCSUNSoftware]<https://www.csun.edu/it/software-services/software/all-software/mycsunsoftware>
+
+
+## Jetstream2/ACCESS
 
 * Managed by Indiana University
 
