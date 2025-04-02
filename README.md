@@ -256,6 +256,8 @@
 | [HPC Pathways (NCSA)](https://www.hpc-training.org/moodle/enrol/index.php?id=101)          | virtual, asynchronous | $0 | on-going | 
 | [Cornell Roadmaps](https://cvw.cac.cornell.edu/roadmaps)          | virtual  | $0 | asynchronous, on-going | 
 | [HPC Carpentry](https://www.hpc-carpentry.org/)          | in-person and virtual, synchronous  | $0 | varies | 
+| [Ecosystem for Research Networking (ERN) Summit](https://docs.google.com/forms/d/e/1FAIpQLSfK9U0vi7IuUETzW3EsRpsC7GfwKdNlkNoa1XuK6Q5NhtbQaA/viewform)          | virtual, synchronous only | $0 | late April | 
+| [Oklahoma University ACI-REF Virtual Residency (Henry Neeman)](https://shareok.org/collections/f2d21d11-57f4-461d-b69b-ed80c93c632b)          | virtual | $0 | recurring | 
 | [(comprehensive, searchable list of resources](https://campuschampions.cyberinfrastructure.org/knowledge-base/resources)          | N/A  | $0 | varies | 
 
 
