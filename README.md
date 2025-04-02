@@ -209,6 +209,8 @@
 | [Science Gateways (SGX3)](https://sciencegateways.org/gateways2025)          | varies  | $0 (NSF) | varies | 
 | [Confab (DOE)](https://confab25.es.net/)          | varies  | low $ | early April | 
 | [Institute for Mathematical and Statistical Innovation (IMSI)](https://www.imsi.institute/)          | varies  | $0 (NSF) | varies | 
+| [US-RSE Conference (US-RSE)](https://us-rse.org/usrse25/)          | varies  | $0 (Sloan) | early October | 
+| [IEEE e-science](https://www.escience-conference.org/2025/)          | varies  | mid $ | mid September | 
 
 * There are plenty of zero-cost and low-cost U.S. domestic events for learning about HPC resources at the _Infrastructure_-level.
 
@@ -225,6 +227,7 @@
 | Name          | Venue         | Cost         |Timeframe         |
 | ------------- | ------------- |------------- |------------- |
 | [CINI HPC Summer School (CINI)](https://www.hpcsummerschool.it/)          | Naples, Italy  | N/A | mid June | 
+| [International Conference on Scalable Scientific Data Management (SSDBM)](https://ssdbm.org/2025/)          | varies  | N/A | late June | 
 
 * The following are some of the Fellowships available:
   * [ICICLE: Intelligent CI with Computational Learning in the Environment (ICICLE)](https://icicle.osu.edu/education-and-outreach/icicle-educational-fellows-program)
@@ -242,6 +245,7 @@
 | [NERSC International HPC Summer School (NERSC)](https://www.nersc.gov/users/training/events/2025/international-hpc-summer-school-july-2025/)          | varies  | $0 (DOE) | early July |
 | [KNIT (FABRIC)](https://knit.fabric-testbed.net/)          | varies  | $0 (NSF) | mid March 
 | [INTERSECT Research Software training (INTERSECT)](https://intersect-training.org/index.html)          | Princeton/Alabama  | $0 (NSF) | mid July |
+| [SHINE Workshop (SHINE)](https://helioshine.org/the-developing-heliophysics-standards-and-cross-science-collaborations-workshop/)          | Iowa City  | $0 fees | mid August |
 
 
 * There are plenty of _virtual_ events for learning about HPR resources.
@@ -269,6 +273,8 @@
   * [LF AI & Data (AI Innovation)](https://lfaidata.foundation/)
   * [US Research Software Sustainability Institute (URSSI)](https://urssi.us/)
   * [Open Molecular Software Foundation (OMSF)](https://omsf.io/)
+  * [ZENODO (open data/scholarship/publication repository - managed by CERN and OpenAIRE)](https://zenodo.org/)
+  * [Software Carpentries (software engineering)](https://software-carpentry.org/)
   * (and check your discipline's pre-conference workshops and related conference themes for HPC events)
 
 * Staff - These HPC resources should be of use to _Staff_ over time.
@@ -296,19 +302,31 @@
   * [Digital Management Plan Tool (DMPTOOL)](https://dmptool.org/)
   * [UC Open Source Program Offices)](https://www.socallinuxexpo.org/scale/22x/presentations/building-network-open-source-program-offices-university-california)
   * [Professional Development for Instructors Interested in Student Participation in Humanitarian Free and Open Source Software (POSSE)](https://teachingopensource.org/POSSE)
+  * [HPC Social (HPC community development)](https://hpc.social/)
 
 * Sundry - These resources related to _domestic_ open science/reproducibility should be of use to various individuals over time.
   * [Science Philanthropy Alliance](https://sciencephilanthropyalliance.org/)
+  * [Crossref (Crossref](https://www.crossref.org/)
 
 * Sundry - These resources related to _international_ open science/reproducibility should be of use to various individuals over time.
   * [Coalition for Advancing Research Assessment (CoARA)](https://coara.eu/)
   * [UNESCO Open Science (UNESCO)](https://www.unesco.org/en/open-science)
   * [Global Research Council (GRC)](https://globalresearchcouncil.org/)
   * [Society of Software Research Engineering (SocRSE) (provides £1,000 for conference travel too)](https://society-rse.org/)
+  * [Science for Life Laboratory (SciLifeLab)](https://www.scilifelab.se/)
+  * [Turing Way (Turing Way)](https://book.the-turing-way.org/)
+  * [Digital Research Alliance of Canada](https://www.alliancecan.ca/en)
+  * [International Conference on Scalable Scientific Data Management](https://ssdbm.org/2025/)
+  * [Reach the World (K-12 supercomputing)](https://reachtheworld.org/supercomputing-and-future-ai/journal/coding-high-school-building-movement?page=2)
 
-* Sundry - These organizations provide regular funding for HPC-related and scientific software.
+* Sundry - These charitable organizations provide regular funding for HPC-related and scientific software.
   * [Chan/Zuckberberg Initiative (Essential Open Source Software for Science (Cycle 6))](https://chanzuckerberg.com/rfa/essential-open-source-software-for-science/)
   * [Kavli Foundation (general science)](https://www.kavlifoundation.org/funding-opportunities)
   * [Wellcome Trust (generally, health-related research software](https://wellcome.org/grant-funding)
   * [Simons Foundation (generally, math and physical sciences software)](https://wellcome.org/grant-funding)
+  * [Sloan Foundation (generally, emerging technology of any type)](https://sloan.org/programs/digital-technology)
+  * [Code for Science and Society (generally, open source software)](https://www.codeforsociety.org/projects)
+
+* Sundry - Parody.
+  * [Journal of Astrological Big Data Ecology (like the old "Journal of Irreproducible Results")](https://jabde.com/)
 
