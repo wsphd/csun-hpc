@@ -237,10 +237,11 @@
 | Name          | Venue         | Cost         |Timeframe         |
 | ------------- | ------------- |------------- |------------- |
 | [Minority-Serving Cyberinfrastructure Capabilities (MS-CC)](https://ms-cc.org/)          | varies  | $0 (NSF) | late May | 
-| [Open Science Grig (OSG)](https://osg-htc.org/school-2025/)          | U of Wisconsin-Madion, WI  | $0 (NSF) | late June | 
-| [HPC and Data Science Summer Institute (SDSC)](https://na.eventscloud.com/website/83760/)          | UCSD, CA  | $350 | late July - early August | 
-| [NERSC International HPC Summer School (NERSC)](https://www.nersc.gov/users/training/events/2025/international-hpc-summer-school-july-2025/)          | varies  | $0 (DOE) | early July | 
-| [KNIT (FABRIC)](https://knit.fabric-testbed.net/)          | varies  | $0 (NSF) | mid March | 
+| [Open Science Grig (OSG)](https://osg-htc.org/school-2025/)          | U of Wisconsin-Madion, WI  | $0 (NSF) | late June |
+| [HPC and Data Science Summer Institute (SDSC)](https://na.eventscloud.com/website/83760/)          | UCSD, CA  | $350 | late July - early August |
+| [NERSC International HPC Summer School (NERSC)](https://www.nersc.gov/users/training/events/2025/international-hpc-summer-school-july-2025/)          | varies  | $0 (DOE) | early July |
+| [KNIT (FABRIC)](https://knit.fabric-testbed.net/)          | varies  | $0 (NSF) | mid March 
+| [INTERSECT Research Software training (INTERSECT)](https://intersect-training.org/index.html)          | Princeton/Alabama  | $0 (NSF) | mid July |
 
 
 * There are plenty of _virtual_ events for learning about HPR resources.
@@ -262,6 +263,12 @@
   * [JuliaCon (annual Summer conference abstracts, proceedings)](https://juliacon.org/2025/)
   * [Framework for Open and Reproducible Research Training (FORRT)](https://forrt.org/)
   * [Open Accelerated Computing (OpenACC) (C/C++ optimizations for research, annual Summer conference)](https://www.openacc.org/)
+  * [NumFOCUS (NumFOCUS) (open resource software practices](https://numfocus.org/)
+  * [Consortium for the Advancement of Scientific Software (CASS) (DoE sponsored)](https://cass.community/)
+  * [Center for Open-Source Research Software Stewardship and Advancement (CORSA)](https://corsa.center/)
+  * [LF AI & Data (AI Innovation)](https://lfaidata.foundation/)
+  * [US Research Software Sustainability Institute (URSSI)](https://urssi.us/)
+  * [Open Molecular Software Foundation (OMSF)](https://omsf.io/)
   * (and check your discipline's pre-conference workshops and related conference themes for HPC events)
 
 * Staff - These HPC resources should be of use to _Staff_ over time.
@@ -275,19 +282,33 @@
 
 * Administration - These HPC resources should be of use to _Administration_ over time.
   * [Coalition for Academic Scientific Computing (CASC)](https://casc.org/)
+  * [Research Software Alliance (ReSA)](https://www.researchsoft.org/)
 
-* Sundry - These HPC resources should be of use to various individuals over time.
+* Sundry - These HPC resources related to _networking_ should be of use to various individuals over time.
   * [ES NET (DOE)](https://www.es.net/)
   * [Globus](https://www.globus.org/)
   * [The Quilt](https://www.thequilt.net/)
   * [Fabric](https://portal.fabric-testbed.net/about/about-fabric)
 
-* Sundry - These open source research-related resources should be of use to various individuals over time.
+* Sundry - These miscellaneous open source research-related resources should be of use to various individuals over time.
   * [Research Data Alliance (RDA)](https://www.rd-alliance.org/)
   * [Center for Open Science - Open Software Foundation (OSF)](https://osf.io/)
   * [Digital Management Plan Tool (DMPTOOL)](https://dmptool.org/)
   * [UC Open Source Program Offices)](https://www.socallinuxexpo.org/scale/22x/presentations/building-network-open-source-program-offices-university-california)
   * [Professional Development for Instructors Interested in Student Participation in Humanitarian Free and Open Source Software (POSSE)](https://teachingopensource.org/POSSE)
 
+* Sundry - These resources related to _domestic_ open science/reproducibility should be of use to various individuals over time.
+  * [Science Philanthropy Alliance](https://sciencephilanthropyalliance.org/)
 
+* Sundry - These resources related to _international_ open science/reproducibility should be of use to various individuals over time.
+  * [Coalition for Advancing Research Assessment (CoARA)](https://coara.eu/)
+  * [UNESCO Open Science (UNESCO)](https://www.unesco.org/en/open-science)
+  * [Global Research Council (GRC)](https://globalresearchcouncil.org/)
+  * [Society of Software Research Engineering (SocRSE) (provides £1,000 for conference travel too)](https://society-rse.org/)
+
+* Sundry - These organizations provide regular funding for HPC-related and scientific software.
+  * [Chan/Zuckberberg Initiative (Essential Open Source Software for Science (Cycle 6))](https://chanzuckerberg.com/rfa/essential-open-source-software-for-science/)
+  * [Kavli Foundation (general science)](https://www.kavlifoundation.org/funding-opportunities)
+  * [Wellcome Trust (generally, health-related research software](https://wellcome.org/grant-funding)
+  * [Simons Foundation (generally, math and physical sciences software)](https://wellcome.org/grant-funding)
 
