@@ -186,7 +186,35 @@
 <summary>
 Sample .yaml specification _without_ GPUs
 </summary>
-[.yaml](amber/deployment-amber.yaml)
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: depolyment-amber
+  labels:
+    k8s-app: depolyment-amber
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      k8s-app: depolyment-amber
+  template:
+    metadata: 
+      labels:
+        k8s-app: depolyment-amber
+    spec:
+      containers:
+      - name: mypod
+        image: gitlab-registry.nrp-nautilus.io/prp/jupyter-stack/r
+        resources:
+           limits:
+             memory: 96Gi
+             cpu: 500m
+           requests:
+             memory: 64Gi
+             cpu: 500m
+        command: ["sh", "-c", "sleep infinity"]
+      nodeSelector:
+        nautilus.io/disktype: nvme
 </details>
 
 * Start here:
