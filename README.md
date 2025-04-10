@@ -180,8 +180,11 @@
   * Kubernetes (open source client-server), you use the "kubectl" binary
   * You control just about everyting with ASCII ".yaml" files
 
-* (Static demo -- sample .yaml configuration file _with_ GPUs)
+* (Static demo -- sample .yaml configuration file with GPUs)
 
+<details>
+
+<summary>Tips for collapsed sections</summary>
 ```YAML
 apiVersion: apps/v1
 kind: Deployment
@@ -214,6 +217,7 @@ spec:
       nodeSelector:
         nautilus.io/disktype: nvme
 ```
+</details>
 
 * Start here:
   * Send Wayne an email - <ws@csun.edu>
