@@ -182,10 +182,6 @@
 
 * (Static demo)
 
-<details>
-<summary>
-Sample .yaml specification _without_ GPUs
-</summary>
 ```
 apiVersion: apps/v1
 kind: Deployment
@@ -217,7 +213,6 @@ spec:
       nodeSelector:
         nautilus.io/disktype: nvme
 ```
-</details>
 
 * Start here:
   * Send Wayne an email - <ws@csun.edu>
