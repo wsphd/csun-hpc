@@ -76,16 +76,24 @@
 
 * CSUN is a big place--there are many faculty doing interesting things with HPC
 
-* Xunfei Jiang (Computer Science)
-  * on-premises HPC and OSG/NRP
-  * Cloud and Infrastructure design and management
-  * Workforce development (full stack)
-
 * Ravi Absol (Chemistry)
   * NRP
   * Molecular Dynamics
   * undergraduate student (Anita) - uses AMBER software (with many GPUs, including NVIDIA A100s)
   * one protein combinatorics imulation took 3 months on a laptop -- now takes ~ 3 weeks
+
+* Bingbing Li (Manufacturing Systems Engineering and Management)
+  * NRP
+  * Smart Manufacturing (e.g., Industrial AI, Multimodal Data Fusion for Autonomous System, Digital Twins, XR and Metaverse for Manufacturing)
+
+* Xiyi Hang (Electrical and Computer Engineering)
+  * NRP
+  * Bioinfomatics/Bio-medical applications (e.g., Gene expression, data mining)
+
+* Xunfei Jiang (Computer Science)
+  * on-premises HPC and OSG/NRP
+  * Cloud and Infrastructure design and management
+  * Workforce development (full stack)
 
 * Dr. Nicholas Kioussis (Physics)
   * CalTech Quantum Computing (and others)
@@ -98,10 +106,11 @@
   * Data output - [multi-file data output](https://www.qsl.net/n/n6lhv//scma/fcculs/)
 
 * Other future CSUN projects
-  * CTVA - UNREAL (digital twins, gaming, 3D mapping)
+  * CTVA - UNREAL 3D imaging (e.g., digital twins, gaming, 3D mapping)
   * Digital Humanities
 
 * Representative CSU projects
+  * SDSU
   * CSUSB - [High Performance Computing](https://www.csusb.edu/faculty-center-for-excellence/idat/high-performance-computing)
   * Sonoma State
   * CalPolyHumboldt
