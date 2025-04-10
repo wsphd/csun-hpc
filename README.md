@@ -182,10 +182,7 @@
 
 * (Static demo -- sample .yaml configuration file with GPUs)
 
-<details>
-
-<summary>Tips for collapsed sections</summary>
-~~~YAML
+```YAML
 apiVersion: apps/v1
 kind: Deployment
 metadata:
@@ -216,7 +213,7 @@ spec:
         command: ["sh", "-c", "sleep infinity"]
       nodeSelector:
         nautilus.io/disktype: nvme
-~~~
+```
 </details>
 
 * Start here:
