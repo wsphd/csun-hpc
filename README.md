@@ -210,7 +210,14 @@ spec:
            requests:
              memory: 512i
              cpu: 1500m
+        volumeMounts:
+        - name: mydata
+          mountPath: /mnt/myscratch
         command: ["sh", "-c", "sleep infinity"]
+      volumes:
+      - name: mydata
+        emptyDir: {}
+          sizeLimit: 10Ti
       nodeSelector:
         nautilus.io/disktype: nvme
 ```
