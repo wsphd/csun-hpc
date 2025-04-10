@@ -162,7 +162,7 @@
   * SSH for logging int (and some learning curve for generating SSH keys and passphrases)
   * SCP for file transfer (after the SSH process is done)
 
-* (Live demo)
+* (Live demo...if possible)
 
 * Start here:
   * [Jetstream ACCESS page]<https://jetstream-cloud.org/get-started/index.html>
@@ -181,6 +181,13 @@
   * You control just about everyting with ASCII ".yaml" files
 
 * (Static demo)
+
+<details>
+<summary>
+Sample .yaml specification _without_ GPUs
+</summary>
+[.yaml](amber/deployment-amber.yaml)
+</details>
 
 * Start here:
   * Send Wayne an email - <ws@csun.edu>
