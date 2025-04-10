@@ -180,39 +180,38 @@
   * Kubernetes (open source client-server), you use the "kubectl" binary
   * You control just about everyting with ASCII ".yaml" files
 
-* (Static demo)
+* (Static demo -- sample .yaml configuration file _with_ GPUs)
 
-```
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: depolyment-amber
+  name: deployment-amber-gpu-ws
   labels:
-    k8s-app: depolyment-amber
+    k8s-app: deployment-amber-gpu-ws
 spec:
   replicas: 1
   selector:
     matchLabels:
-      k8s-app: depolyment-amber
+      k8s-app: deployment-amber-gpu-ws
   template:
     metadata: 
       labels:
-        k8s-app: depolyment-amber
+        k8s-app: deployment-amber-gpu-ws
     spec:
       containers:
-      - name: mypod
-        image: gitlab-registry.nrp-nautilus.io/prp/jupyter-stack/r
+      - name: mypod-gpu
+        image: gitlab-registry.nrp-nautilus.io/prp/jupyter-stack/tensorflow
         resources:
            limits:
-             memory: 96Gi
-             cpu: 500m
+             memory: 512Gi
+             cpu: 1500m
+             nvidia.com/gpu: 1
            requests:
-             memory: 64Gi
-             cpu: 500m
+             memory: 512i
+             cpu: 1500m
         command: ["sh", "-c", "sleep infinity"]
       nodeSelector:
         nautilus.io/disktype: nvme
-```
 
 * Start here:
   * Send Wayne an email - <ws@csun.edu>
