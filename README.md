@@ -186,10 +186,10 @@
 <summary>
 Sample .yaml specification _without_ GPUs
 </summary>
-apiVersion: apps/v1
-kind: Deployment
-metadata:
-  name: depolyment-amber
+apiVersion: apps/v1\
+kind: Deployment\
+metadata:\
+  name: depolyment-amber\
   labels:
     k8s-app: depolyment-amber
 spec:
