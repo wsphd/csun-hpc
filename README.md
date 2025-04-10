@@ -182,6 +182,7 @@
 
 * (Static demo -- sample .yaml configuration file _with_ GPUs)
 
+```YAML
 apiVersion: apps/v1
 kind: Deployment
 metadata:
@@ -212,6 +213,7 @@ spec:
         command: ["sh", "-c", "sleep infinity"]
       nodeSelector:
         nautilus.io/disktype: nvme
+```
 
 * Start here:
   * Send Wayne an email - <ws@csun.edu>
