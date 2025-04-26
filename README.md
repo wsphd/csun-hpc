@@ -373,7 +373,8 @@ spec:
 
 * Sundry - These HPC resources related to _networking_ should be of use to various individuals over time.
   * [ES NET (DOE)](https://www.es.net/)
-  * [Globus](https://www.globus.org/)
+  * [Globus (Data Management](https://www.globus.org/)
+  * [Globus Compute](https://www.globus.org/compute)
   * [The Quilt](https://www.thequilt.net/)
   * [Fabric](https://portal.fabric-testbed.net/about/about-fabric)
 
