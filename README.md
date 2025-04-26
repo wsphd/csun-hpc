@@ -352,10 +352,11 @@ spec:
   * [Software Carpentries (software engineering)](https://software-carpentry.org/)
   * (and check your discipline's pre-conference workshops and related conference themes for HPC events)
 
-* Faculty - These _discipline-specific_ open source software environments are commonly used on HPC clusters.
+* Faculty - These _open source_, _discipline-specific_ open source software environments are commonly used on HPC clusters.
   * Fluid Dynamics - [OpenFOAM (OpenFOAM)](https://www.openfoam.com/)
-  * Molecular Dynamics - [AMBERMD (AMBERMD)](https://ambermd.org/)
+  * Molecular Dynamics/Mechanical Forcefields - [AMBERMD (AMBERMD)](https://ambermd.org/)
   * 3D Creation/Gaming - [UnReal Engine (UNREAL)](https://www.unrealengine.com/en-US)
+  * Mathematical Optimization - [HiGHS Solver (HiGHS)](https://highs.dev/)
 
 * Staff - These HPC resources should be of use to _Staff_ over time.
   * [US Research Software Engineering Association (US-RSE)](https://us-rse.org/)
