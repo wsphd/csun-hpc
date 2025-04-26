@@ -279,6 +279,7 @@ spec:
 | ------------- | ------------- |------------- |------------- |
 | [CINI HPC Summer School (CINI)](https://www.hpcsummerschool.it/)          | Naples, Italy  | N/A | mid June | 
 | [International Conference on Scalable Scientific Data Management (SSDBM)](https://ssdbm.org/2025/)          | varies  | N/A | late June | 
+| [TNC - GEANT (TNC)](https://tnc25.geant.org/)          | varies  | N/A | early-mid June | 
 
 * The following are some of the Fellowships available:
   * [ICICLE: Intelligent CI with Computational Learning in the Environment (ICICLE)](https://icicle.osu.edu/education-and-outreach/icicle-educational-fellows-program)
@@ -319,20 +320,27 @@ spec:
 
 * NSF - These are the chief areas of funding for HPC resources from the _National Science Foundation_.
   * [Cyberinfrastructure and Advanced Computing)](https://www.nsf.gov/focus-areas/cyberinfrastructure)
-  * [Campus Cyberinfrastructure (CC*))](https://www.nsf.gov/funding/opportunities/cc-campus-cyberinfrastructure)
-* NIH - These are the chief areas of funding for HPC resources from the _National Institue of Health_.
+  * [Office of Advanced Cyberinfrastructure (OAC))](https://www.nsf.gov/cise/oac)
+  * [Campus Cyberinfrastructure (CC*)](https://www.nsf.gov/funding/opportunities/cc-campus-cyberinfrastructure)
+  * [Opportunities for Early-Career Researchers (EAGER))](https://www.nsf.gov/funding/early-career-researchers)
+* NIH - These are the chief areas of funding for HPC resources from the _National Institutes of Health_.
   * (tbd)
 * DoE - These are the chief areas of funding for HPC resources from the _Dept. of Energy_.
+  * (tbd)
+* DoD - These are the chief areas of funding for HPC resources from the _Dept. of Defense_.
+  * (tbd)
+* NASA - These are the chief areas of funding for HPC resources from the _National Aerospace and Space Agency_.
   * (tbd)
 
 
 ## Upskilling - Professional Associations/Societies
 
-* Faculty - These HPC resources should be of use to _Faculty_ over time.
+* Faculty - These generaly-purpose HPC resources should be of use to _Faculty_ over time.
   * [R OpenSci (ROpenSci)](https://ropensci.org/)
   * [PyOpenSci (pyOpenSci)](https://www.pyopensci.org/)
   * [JuliaCon (annual Summer conference abstracts, proceedings)](https://juliacon.org/2025/)
   * [Framework for Open and Reproducible Research Training (FORRT)](https://forrt.org/)
+  * [OpenMP (OpenMP)](https://www.openmp.org/)
   * [Open Accelerated Computing (OpenACC) (C/C++ optimizations for research, annual Summer conference)](https://www.openacc.org/)
   * [NumFOCUS (NumFOCUS) (open resource software practices](https://numfocus.org/)
   * [Consortium for the Advancement of Scientific Software (CASS) (DoE sponsored)](https://cass.community/)
@@ -343,6 +351,11 @@ spec:
   * [ZENODO (open data/scholarship/publication repository - managed by CERN and OpenAIRE)](https://zenodo.org/)
   * [Software Carpentries (software engineering)](https://software-carpentry.org/)
   * (and check your discipline's pre-conference workshops and related conference themes for HPC events)
+
+* Faculty - These _discipline-specific_ open source software environments are commonly used on HPC clusters.
+  * Fluid Dynamics - [OpenFOAM (OpenFOAM)](https://www.openfoam.com/)
+  * Molecular Dynamics - [AMBERMD (AMBERMD)](https://ambermd.org/)
+  * 3D Creation/Gaming - [UnReal Engine (UNREAL)](https://www.unrealengine.com/en-US)
 
 * Staff - These HPC resources should be of use to _Staff_ over time.
   * [US Research Software Engineering Association (US-RSE)](https://us-rse.org/)
@@ -394,6 +407,6 @@ spec:
   * [Sloan Foundation (generally, emerging technology of any type)](https://sloan.org/programs/digital-technology)
   * [Code for Science and Society (generally, open source software)](https://www.codeforsociety.org/projects)
 
-* Sundry - Parody.
-  * [Journal of Astrological Big Data Ecology (like the old "Journal of Irreproducible Results")](https://jabde.com/)
+* Sundry - Parody (grin).
+  * [Journal of Astrological Big Data Ecology (similar to the old "Journal of Irreproducible Results")](https://jabde.com/)
 
