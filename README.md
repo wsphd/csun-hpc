@@ -124,8 +124,8 @@
 
 * [Multi-user, interactive notebooks (including R, Python, Julia, etc.)]<https://jupyter.org/hub>
 
-* CSU Technology Infrastructure for Exploration ("TIDE")
-  * _governance_: funded by NSF, provisioned by Cloudbank, managed/supported by UC Berkeley 
+* The Partnership for Establishing a California Interactive Computing Open Resource ("CAL-ICOR")
+  * _governance_: funded by NSF, provisioned by Cloudbank, managed by 2i2c, supported by UC Berkeley 
   * _hardware_: basic access
   * _software_: R/RStudio, Python, Shiny, Linux terminal, generic notebooks
   * _log in_: Select "California State University, Northridge" and then log in is via CILOGON (just log in as usual)
@@ -256,6 +256,7 @@ spec:
 | Name          | Venue         | Cost         |Timeframe         |
 | ------------- | ------------- |------------- |------------- |
 | [Practice & Experience in Advanced Research Computing<br>(PEARC)](https://pearc.acm.org/)          | varies  | mid $ | late July | 
+| [RCD Nexus Day (precedes PEARC)](https://carcc.org/2025/03/31/register-now-for-rcd-nexus-day-at-pearc25/)          | varies  | $0 | late July | 
 | [Science Gateways (SGX3)](https://sciencegateways.org/gateways2025)          | varies  | $0 (NSF) | varies | 
 | [Confab (DOE)](https://confab25.es.net/)          | varies  | low $ | early April | 
 | [Institute for Mathematical and Statistical Innovation (IMSI)](https://www.imsi.institute/)          | varies  | $0 (NSF) | varies | 
@@ -291,6 +292,8 @@ spec:
 | ------------- | ------------- |------------- |------------- |
 | [Minority-Serving Cyberinfrastructure Capabilities (MS-CC)](https://ms-cc.org/)          | varies  | $0 (NSF) | late May | 
 | [Open Science Grig (OSG)](https://osg-htc.org/school-2025/)          | U of Wisconsin-Madion, WI  | $0 (NSF) | late June |
+| [ByteBoost Cybertraining Program (ByteBoost)](https://www.stonybrook.edu/ookami/ByteBoost.php)          | Carneigie Mellon U.  | $0 (NSF) | early August | 
+| [Throughput Computing Week (HTC25)](https://agenda.hep.wisc.edu/event/2297/overview)          | in-person (U. of Wisc./Madison) and virtual | $125 in-person, $0 virtual | early June  | 
 | [HPC and Data Science Summer Institute (SDSC)](https://na.eventscloud.com/website/83760/)          | UCSD, CA  | $350 | late July - early August |
 | [NERSC International HPC Summer School (NERSC)](https://www.nersc.gov/users/training/events/2025/international-hpc-summer-school-july-2025/)          | varies  | $0 (DOE) | early July |
 | [KNIT (FABRIC)](https://knit.fabric-testbed.net/)          | varies  | $0 (NSF) | mid March 
@@ -303,12 +306,24 @@ spec:
 | Name          | Venue         | Cost         |Timeframe         |
 | ------------- | ------------- |------------- |------------- |
 | [OU Supercomputing Center for Education & Research (OU)](https://www.oscer.ou.edu/virtualresidency2024.php)          | virtual, synchronous | $0 (NSF) | late June  | 
+| [Texas A&M HPRC - ACES (TAMU)](https://hprc.tamu.edu/training/index.html)          | virtual, synchronous | $0 (NSF) | on-going  | 
 | [HPC Pathways (NCSA)](https://www.hpc-training.org/moodle/enrol/index.php?id=101)          | virtual, asynchronous | $0 | on-going | 
 | [Cornell Roadmaps](https://cvw.cac.cornell.edu/roadmaps)          | virtual  | $0 | asynchronous, on-going | 
 | [HPC Carpentry](https://www.hpc-carpentry.org/)          | in-person and virtual, synchronous  | $0 | varies | 
 | [Ecosystem for Research Networking (ERN) Summit](https://docs.google.com/forms/d/e/1FAIpQLSfK9U0vi7IuUETzW3EsRpsC7GfwKdNlkNoa1XuK6Q5NhtbQaA/viewform)          | virtual, synchronous only | $0 | late April | 
 | [Oklahoma University ACI-REF Virtual Residency (Henry Neeman)](https://shareok.org/collections/f2d21d11-57f4-461d-b69b-ed80c93c632b)          | virtual | $0 | recurring | 
 | [(comprehensive, searchable list of resources](https://campuschampions.cyberinfrastructure.org/knowledge-base/resources)          | N/A  | $0 | varies | 
+
+
+## Primary Federal Funding sources
+
+* NSF - These are the chief areas of funding for HPC resources from the _National Science Foundation_.
+  * [Cyberinfrastructure and Advanced Computing)](https://www.nsf.gov/focus-areas/cyberinfrastructure)
+  * [Campus Cyberinfrastructure (CC*))](https://www.nsf.gov/funding/opportunities/cc-campus-cyberinfrastructure)
+* NIH - These are the chief areas of funding for HPC resources from the _National Institue of Health_.
+  * (tbd)
+* DoE - These are the chief areas of funding for HPC resources from the _Dept. of Energy_.
+  * (tbd)
 
 
 ## Upskilling - Professional Associations/Societies
