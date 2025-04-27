@@ -336,9 +336,13 @@ spec:
 ## Upskilling - Professional Associations/Societies
 
 * Faculty - These generaly-purpose HPC resources should be of use to _Faculty_ over time.
+  * [ACM HPC (ACMHPC)](https://www.sighpc.org/)
+  * [Advanced Cyberinfrastructure - Research and Education Facilitators (ACI-REF)](https://aci-ref.github.io/)
   * [R OpenSci (ROpenSci)](https://ropensci.org/)
   * [PyOpenSci (pyOpenSci)](https://www.pyopensci.org/)
   * [JuliaCon (annual Summer conference abstracts, proceedings)](https://juliacon.org/2025/)
+  * [Consortium for Advanced Data Assimilation Research and Education (CADRE)](https://ucadre.org/)
+  * [High Performance Computing Collaboratory (HPC<sup>2</sup>)](https://www.hpc.msstate.edu/)
   * [Framework for Open and Reproducible Research Training (FORRT)](https://forrt.org/)
   * [OpenMP (OpenMP)](https://www.openmp.org/)
   * [Open Accelerated Computing (OpenACC) (C/C++ optimizations for research, annual Summer conference)](https://www.openacc.org/)
@@ -377,6 +381,11 @@ spec:
   * [Globus Compute](https://www.globus.org/compute)
   * [The Quilt](https://www.thequilt.net/)
   * [Fabric](https://portal.fabric-testbed.net/about/about-fabric)
+
+* Sundry - These HPC resources related to scientific and research _metadata_ should be of use to various individuals over time.
+  * [FAIR Guiding Principles for scientific data management and stewardship (FAIR)](https://www.go-fair.org/fair-principles/)
+  * [CARE Principles for Indigenous Data Governance (CARE)](https://www.gida-global.org/care)
+  * [TRUST Principles for digital repositories (TRUST)](https://www.nature.com/articles/s41597-020-0486-7)
 
 * Sundry - These miscellaneous open source research-related resources should be of use to various individuals over time.
   * [Research Data Alliance (RDA)](https://www.rd-alliance.org/)
