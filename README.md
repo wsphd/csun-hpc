@@ -381,6 +381,8 @@ spec:
   * [Globus Compute](https://www.globus.org/compute)
   * [The Quilt](https://www.thequilt.net/)
   * [Fabric](https://portal.fabric-testbed.net/about/about-fabric)
+  * [Los Angeles City Library Free, High Speed Internet](https://cenic.org/blog/libraries-are-key-to-providing-broadband-access-to-ca-communities)
+  * [mmWave 5G - high band](https://www.digitaltrends.com/mobile/what-is-mmwave-high-band-5g-explained/)
 
 * Sundry - These HPC resources related to scientific and research _metadata_ should be of use to various individuals over time.
   * [FAIR Guiding Principles for scientific data management and stewardship (FAIR)](https://www.go-fair.org/fair-principles/)
