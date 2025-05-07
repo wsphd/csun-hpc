@@ -261,7 +261,7 @@ spec:
 | [Confab (DOE)](https://confab25.es.net/)          | varies  | low $ | early April | 
 | [Institute for Mathematical and Statistical Innovation (IMSI)](https://www.imsi.institute/)          | varies  | $0 (NSF) | varies | 
 | [US-RSE Conference (US-RSE)](https://us-rse.org/usrse25/)          | varies  | $0 (Sloan) | early October | 
-| [IEEE e-science](https://www.escience-conference.org/2025/)          | varies  | mid $ | mid September | 
+| [IEEE eScience](https://www.escience-conference.org/2025/)          | varies  | mid $ | mid September | 
 
 * There are plenty of zero-cost and low-cost U.S. domestic events for learning about HPC resources at the _Infrastructure_-level.
 
@@ -372,7 +372,7 @@ spec:
   * [OpenOnDemand](https://openondemand.org/)
   * [Internet2 Research Engagement](https://internet2.edu/community/research-engagement/research-community/)
   * [Internet2 NET+](https://internet2.edu/cloud/internet2-net-plus-services/)
-  * [EduCause Research Computing and Data Community Group](https://www.educause.edu/community/research-computing-and-data-community-group)
+  * [EDUCAUSE Research Computing and Data Community Group (RCD)](https://www.educause.edu/community/research-computing-and-data-community-group)
 
 * Administration - These HPC resources should be of use to _Administration_ over time.
   * [Coalition for Academic Scientific Computing (CASC)](https://casc.org/)
@@ -427,9 +427,15 @@ spec:
 
 * Sundry - These peer-reviewed journals are outlets for HPC-related work.
   * [Journal of Open Source Software (JOSS)](https://joss.theoj.org/)
+  * [Future Generation Computer Systems (FGCS)](https://www-sciencedirect-com.libproxy.csun.edu/journal/future-generation-computer-systems)
+
+* Sundry - These certifications can be helpful for professional development in HPC-related work.
+  * [Certified Cyberinfrastructure Facilitator Training and Development (CCIFTD)](https://coco.cyberinfrastructure.org/organizations/certified-cyberinfrastructure-facilitator-training-and-development)
 
 * Sundry - These podcasts can be helpful learning tools for HPC-related work.
   * [JOSSCast: Open Source for Researchers (JOSSCast)](https://podcastindex.org/podcast/6765019)
+  * [UCL for Code in Research (C++ course at U Col London)](https://podcastindex.org/podcast/7136881)
+  * [Code for Thought](https://codeforthought.buzzsprout.com/)
 
 * Sundry - Parody (grin).
   * [Journal of Astrological Big Data Ecology (similar to the old "Journal of Irreproducible Results")](https://jabde.com/)
