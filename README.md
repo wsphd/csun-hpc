@@ -398,6 +398,7 @@ spec:
   * [Digital Management Plan Tool (DMPTOOL)](https://dmptool.org/)
   * [UC Open Source Program Offices)](https://www.socallinuxexpo.org/scale/22x/presentations/building-network-open-source-program-offices-university-california)
   * [Professional Development for Instructors Interested in Student Participation in Humanitarian Free and Open Source Software (POSSE)](https://teachingopensource.org/POSSE)
+  * [Free and Open Source Software Yearly Conference (FOSSY)](https://2025.fossy.us/)
   * [HPC Social (HPC community development)](https://hpc.social/)
 
 * Sundry - These resources related to _domestic_ open science/reproducibility should be of use to various individuals over time.
@@ -405,6 +406,7 @@ spec:
   * [Crossref (Crossref](https://www.crossref.org/)
 
 * Sundry - These resources related to _international_ open science/reproducibility should be of use to various individuals over time.
+  * [Software Sustainability Institute (SSI)](https://www.software.ac.uk/)
   * [Coalition for Advancing Research Assessment (CoARA)](https://coara.eu/)
   * [UNESCO Open Science (UNESCO)](https://www.unesco.org/en/open-science)
   * [Global Research Council (GRC)](https://globalresearchcouncil.org/)
@@ -422,6 +424,12 @@ spec:
   * [Simons Foundation (generally, math and physical sciences software)](https://wellcome.org/grant-funding)
   * [Sloan Foundation (generally, emerging technology of any type)](https://sloan.org/programs/digital-technology)
   * [Code for Science and Society (generally, open source software)](https://www.codeforsociety.org/projects)
+
+* Sundry - These peer-reviewed journals are outlets for HPC-related work.
+  * [Journal of Open Source Software (JOSS)](https://joss.theoj.org/)
+
+* Sundry - These podcasts can be helpful learning tools for HPC-related work.
+  * [JOSSCast: Open Source for Researchers (JOSSCast)](https://podcastindex.org/podcast/6765019)
 
 * Sundry - Parody (grin).
   * [Journal of Astrological Big Data Ecology (similar to the old "Journal of Irreproducible Results")](https://jabde.com/)
