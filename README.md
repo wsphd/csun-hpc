@@ -300,6 +300,7 @@ spec:
 | [KNIT (FABRIC)](https://knit.fabric-testbed.net/)          | varies  | $0 (NSF) | mid March 
 | [INTERSECT Research Software training (INTERSECT)](https://intersect-training.org/index.html)          | Princeton/Alabama  | $0 (NSF) | mid July |
 | [SHINE Workshop (SHINE)](https://helioshine.org/the-developing-heliophysics-standards-and-cross-science-collaborations-workshop/)          | Iowa City  | $0 fees | mid August |
+| [ESIIL Innovation Summit (ESIIL)](https://cu-esiil.github.io/Innovation-Summit-2025/)          | U of Colorado  | $0 fees, $0 (NSF) | late September |
 
 
 * There are plenty of _virtual_ events for learning about HPR resources.
@@ -309,6 +310,7 @@ spec:
 | [OU Supercomputing Center for Education & Research (OU)](https://www.oscer.ou.edu/virtualresidency2024.php)          | virtual, synchronous | $0 (NSF) | late June  | 
 | [Texas A&M HPRC - ACES (TAMU)](https://hprc.tamu.edu/training/index.html)          | virtual, synchronous | $0 (NSF) | on-going  | 
 | [HPC Pathways (NCSA)](https://www.hpc-training.org/moodle/enrol/index.php?id=101)          | virtual, asynchronous | $0 | on-going | 
+| [CI Pathways (NCSA)](https://ai.ncsa.illinois.edu/news-events/2025/02/ci-pathways-spring-2025/)          | virtual, asynchronous | $0 | on-going | 
 | [Cornell Roadmaps](https://cvw.cac.cornell.edu/roadmaps)          | virtual  | $0 | asynchronous, on-going | 
 | [HPC Carpentry](https://www.hpc-carpentry.org/)          | in-person and virtual, synchronous  | $0 | varies | 
 | [Ecosystem for Research Networking (ERN) Summit](https://docs.google.com/forms/d/e/1FAIpQLSfK9U0vi7IuUETzW3EsRpsC7GfwKdNlkNoa1XuK6Q5NhtbQaA/viewform)          | virtual, synchronous only | $0 | late April | 
@@ -335,11 +337,12 @@ spec:
 
 ## Upskilling - Professional Associations/Societies
 
-* Faculty - These generaly-purpose HPC resources should be of use to _Faculty_ over time.
+* Faculty - These general-purpose HPC resources should be of use to _Faculty_ over time.
   * [ACM HPC (ACMHPC)](https://www.sighpc.org/)
   * [Advanced Cyberinfrastructure - Research and Education Facilitators (ACI-REF)](https://aci-ref.github.io/)
   * [R OpenSci (ROpenSci)](https://ropensci.org/)
   * [PyOpenSci (pyOpenSci)](https://www.pyopensci.org/)
+  * [SciPyi (SciPy)](https://www.scipy2025.scipy.org/)
   * [JuliaCon (annual Summer conference abstracts, proceedings)](https://juliacon.org/2025/)
   * [Consortium for Advanced Data Assimilation Research and Education (CADRE)](https://ucadre.org/)
   * [High Performance Computing Collaboratory (HPC<sup>2</sup>)](https://www.hpc.msstate.edu/)
