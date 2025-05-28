@@ -423,6 +423,7 @@ spec:
   * [Wellcome Trust (generally, health-related research software](https://wellcome.org/grant-funding)
   * [Simons Foundation (generally, math and physical sciences software)](https://wellcome.org/grant-funding)
   * [Sloan Foundation (generally, emerging technology of any type)](https://sloan.org/programs/digital-technology)
+  * [Allen Institute (generally, technologies related to biology, neuroscience, and similar areas)](https://alleninstitute.org/)
   * [Code for Science and Society (generally, open source software)](https://www.codeforsociety.org/projects)
 
 * Sundry - These peer-reviewed journals are outlets for HPC-related work.
