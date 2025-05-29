@@ -413,6 +413,7 @@ spec:
   * [Professional Development for Instructors Interested in Student Participation in Humanitarian Free and Open Source Software (POSSE)](https://teachingopensource.org/POSSE)
   * [Free and Open Source Software Yearly Conference (FOSSY)](https://2025.fossy.us/)
   * [HPC Social (HPC community development)](https://hpc.social/)
+  * [Openscapes](https://openscapes.org/)
 
 * Sundry - These resources related to _domestic_ open science/reproducibility should be of use to various individuals over time.
   * [Science Philanthropy Alliance](https://sciencephilanthropyalliance.org/)
