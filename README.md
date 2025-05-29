@@ -264,6 +264,7 @@ spec:
 | [US-RSE Conference (US-RSE)](https://us-rse.org/usrse25/)          | varies  | $0 (Sloan) | early October | 
 | [IEEE eScience](https://www.escience-conference.org/2025/)          | varies  | mid $ | mid September | 
 | [1st Workshop on Workflows, Intelligent Scientific Data, and Optimization for Automated Management (WISDOM)](https://workflows.community/workshops/wisdom-2025/)          | San Diego  | mid $ | early September | 
+| [Researcher Workshop (ACES)](https://hprc.tamu.edu/aces/aces_workshop_2025.html)          | Columbus, OH | $0 (NSF) | mid-July | 
 
 * There are plenty of zero-cost and low-cost U.S. domestic events for learning about HPC resources at the _Infrastructure_-level.
 
