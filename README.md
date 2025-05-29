@@ -144,7 +144,7 @@
   * Start here: [myCSUNSoftware]<https://www.csun.edu/it/software-services/software/all-software/mycsunsoftware>
 
 
-## Jetstream2/ACCESS
+## [Jetstream2 NSF #2005506)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2005506)/[ACCESS (multiple NSF Awards)](https://allocations.access-ci.org/get-your-first-project)
 
 * Managed by Indiana University
 
@@ -272,8 +272,9 @@ spec:
 | [Supercomputing (SC)](https://sc25.supercomputing.org/)          | St. Louis, Denver, Atlanta  | low $ | mid November | 
 | [Corporation for Networking and Research (CENIC)](https://cenic.org/events)          | varies  | low $ | late March | 
 | [Southern California Linux Expo (SCaLE)](https://www.socallinuxexpo.org/scale/22x)          | Pasadena, CA  | low $ | early March | 
+| [OpenInfraDays (OpenInfra at SCaLE)](https://www.socallinuxexpo.org/scale/22x/events/open-infra-days)          | Pasadena, CA  | low $ | early March | 
 
-* And the list of _International_ events for learning about HPR resources is growing quickly.
+* And the list of _International_ events for learning about HPC resources is growing quickly.
 
 | Name          | Venue         | Cost         |Timeframe         |
 | ------------- | ------------- |------------- |------------- |
@@ -287,7 +288,7 @@ spec:
 
 ## National Workshops
 
-* There are plenty of _in-person_ events for learning about HPR resources.
+* There are plenty of _in-person_ events for learning about HPC resources.
 
 | Name          | Venue         | Cost         |Timeframe         |
 | ------------- | ------------- |------------- |------------- |
@@ -303,7 +304,7 @@ spec:
 | [ESIIL Innovation Summit (ESIIL)](https://cu-esiil.github.io/Innovation-Summit-2025/)          | U of Colorado  | $0 fees, $0 (NSF) | late September |
 
 
-* There are plenty of _virtual_ events for learning about HPR resources.
+* There are plenty of _virtual_ events for learning about HPC resources.
 
 | Name          | Venue         | Cost         |Timeframe         |
 | ------------- | ------------- |------------- |------------- |
