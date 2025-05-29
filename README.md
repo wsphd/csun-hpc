@@ -110,14 +110,15 @@
   * Digital Humanities
 
 * Representative CSU projects
-  * SDSU
+  * SDSU - [HPC Resources/Consultation](https://it.sdsu.edu/services/research)
   * CSUSB - [High Performance Computing](https://www.csusb.edu/faculty-center-for-excellence/idat/high-performance-computing)
-  * Sonoma State
-  * CalPolyHumboldt
+  * Sonoma State - ChemCompute [NSF $1MM award article](https://news.sonoma.edu/article/ssu-professor-mark-perri-awarded-995786-national-science-foundation), [online resource](https://chemcompute.org/)
+  * CalPoly Humboldt - [HPC Success Stories](https://its.humboldt.edu/research/high-performance-computing)
 
 * CSU help
   * Dr. Dung Vu (CSUSB)
   * Kyle Krick (SDSU)
+  * Ravi Chalasani (CalPoly Humboldt)
 
 
 ## JupyterHub
@@ -257,11 +258,12 @@ spec:
 | ------------- | ------------- |------------- |------------- |
 | [Practice & Experience in Advanced Research Computing<br>(PEARC)](https://pearc.acm.org/)          | varies  | mid $ | late July | 
 | [RCD Nexus Day (precedes PEARC)](https://carcc.org/2025/03/31/register-now-for-rcd-nexus-day-at-pearc25/)          | varies  | $0 | late July | 
-| [Science Gateways (SGX3)](https://sciencegateways.org/gateways2025)          | varies  | $0 (NSF) | varies | 
+| [Science Gateways Community Institute (SGCI)](https://sciencegateways.org/gateways2025)          | varies  | $0 (NSF) | varies | 
 | [Confab (DOE)](https://confab25.es.net/)          | varies  | low $ | early April | 
 | [Institute for Mathematical and Statistical Innovation (IMSI)](https://www.imsi.institute/)          | varies  | $0 (NSF) | varies | 
 | [US-RSE Conference (US-RSE)](https://us-rse.org/usrse25/)          | varies  | $0 (Sloan) | early October | 
 | [IEEE eScience](https://www.escience-conference.org/2025/)          | varies  | mid $ | mid September | 
+| [1st Workshop on Workflows, Intelligent Scientific Data, and Optimization for Automated Management (WISDOM)](https://workflows.community/workshops/wisdom-2025/)          | San Diego  | mid $ | early September | 
 
 * There are plenty of zero-cost and low-cost U.S. domestic events for learning about HPC resources at the _Infrastructure_-level.
 
@@ -272,6 +274,7 @@ spec:
 | [Supercomputing (SC)](https://sc25.supercomputing.org/)          | St. Louis, Denver, Atlanta  | low $ | mid November | 
 | [Corporation for Networking and Research (CENIC)](https://cenic.org/events)          | varies  | low $ | late March | 
 | [Southern California Linux Expo (SCaLE)](https://www.socallinuxexpo.org/scale/22x)          | Pasadena, CA  | low $ | early March | 
+| [Rocky Mountain Advanced Computing Consortium (RMACC)](https://rmacc.org/)          | Boulder, CO  | low $ | late May | 
 | [OpenInfraDays (OpenInfra at SCaLE)](https://www.socallinuxexpo.org/scale/22x/events/open-infra-days)          | Pasadena, CA  | low $ | early March | 
 
 * And the list of _International_ events for learning about HPC resources is growing quickly.
@@ -325,6 +328,7 @@ spec:
   * [Cyberinfrastructure and Advanced Computing)](https://www.nsf.gov/focus-areas/cyberinfrastructure)
   * [Office of Advanced Cyberinfrastructure (OAC))](https://www.nsf.gov/cise/oac)
   * [Campus Cyberinfrastructure (CC*)](https://www.nsf.gov/funding/opportunities/cc-campus-cyberinfrastructure)
+  * [Broadening Participation in Computing Initiative (BPC))](https://www.nsf.gov/funding/opportunities/bpc-broadening-participation-computing/505891/nsf21-571)
   * [Opportunities for Early-Career Researchers (EAGER))](https://www.nsf.gov/funding/early-career-researchers)
 * NIH - These are the chief areas of funding for HPC resources from the _National Institutes of Health_.
   * (tbd)
@@ -347,6 +351,7 @@ spec:
   * [JuliaCon (annual Summer conference abstracts, proceedings)](https://juliacon.org/2025/)
   * [Consortium for Advanced Data Assimilation Research and Education (CADRE)](https://ucadre.org/)
   * [High Performance Computing Collaboratory (HPC<sup>2</sup>)](https://www.hpc.msstate.edu/)
+  * [ACM SIGHPC Edu (SIGHPC-Edu)](https://www.sighpc.org/)
   * [Framework for Open and Reproducible Research Training (FORRT)](https://forrt.org/)
   * [OpenMP (OpenMP)](https://www.openmp.org/)
   * [Open Accelerated Computing (OpenACC) (C/C++ optimizations for research, annual Summer conference)](https://www.openacc.org/)
@@ -358,6 +363,8 @@ spec:
   * [Open Molecular Software Foundation (OMSF)](https://omsf.io/)
   * [ZENODO (open data/scholarship/publication repository - managed by CERN and OpenAIRE)](https://zenodo.org/)
   * [Software Carpentries (software engineering)](https://software-carpentry.org/)
+  * [Massachusetts Green High Performance Computing Center (MGHPCC)](https://www.mghpcc.org/)
+  * [Workflows Community)](https://workflows.community/)
   * (and check your discipline's pre-conference workshops and related conference themes for HPC events)
 
 * Faculty - These _open source_, _discipline-specific_ open source software environments are commonly used on HPC clusters.
@@ -370,10 +377,15 @@ spec:
   * [US Research Software Engineering Association (US-RSE)](https://us-rse.org/)
   * [Campus Research Computing Consortium (CaRCC)](https://carcc.org/)
   * [Campus Champions](https://campuschampions.cyberinfrastructure.org/)
+  * [Research Computing Knowledge Share (ask.ci)](https://ask.cyberinfrastructure.org/)
+  * [CAREERS CyberTeam (CAREERS CT)](https://careers-ct.cyberinfrastructure.org/)
+  * [CCMNet](https://ccmnet.org/)
+  * [CyberAmbassadors](https://sites.google.com/msu.edu/cyberambassadors/home)
   * [OpenOnDemand](https://openondemand.org/)
   * [Internet2 Research Engagement](https://internet2.edu/community/research-engagement/research-community/)
   * [Internet2 NET+](https://internet2.edu/cloud/internet2-net-plus-services/)
   * [EDUCAUSE Research Computing and Data Community Group (RCD)](https://www.educause.edu/community/research-computing-and-data-community-group)
+  * [ACM SIGHPC Syspros (SIGHPC-Syspros)](https://sighpc-syspros.org/)
 
 * Administration - These HPC resources should be of use to _Administration_ over time.
   * [Coalition for Academic Scientific Computing (CASC)](https://casc.org/)
@@ -407,6 +419,7 @@ spec:
   * [Crossref (Crossref](https://www.crossref.org/)
 
 * Sundry - These resources related to _international_ open science/reproducibility should be of use to various individuals over time.
+  * [Open Software Initiative (OSI)](https://opensource.org/)
   * [Software Sustainability Institute (SSI)](https://www.software.ac.uk/)
   * [Coalition for Advancing Research Assessment (CoARA)](https://coara.eu/)
   * [UNESCO Open Science (UNESCO)](https://www.unesco.org/en/open-science)
@@ -416,7 +429,6 @@ spec:
   * [Turing Way (Turing Way)](https://book.the-turing-way.org/)
   * [Digital Research Alliance of Canada](https://www.alliancecan.ca/en)
   * [International Conference on Scalable Scientific Data Management](https://ssdbm.org/2025/)
-  * [Reach the World (K-12 supercomputing)](https://reachtheworld.org/supercomputing-and-future-ai/journal/coding-high-school-building-movement?page=2)
 
 * Sundry - These charitable organizations provide regular funding for HPC-related and scientific software.
   * [Chan/Zuckberberg Initiative (Essential Open Source Software for Science (Cycle 6))](https://chanzuckerberg.com/rfa/essential-open-source-software-for-science/)
@@ -438,6 +450,10 @@ spec:
   * [JOSSCast: Open Source for Researchers (JOSSCast)](https://podcastindex.org/podcast/6765019)
   * [UCL for Code in Research (C++ course at U Col London)](https://podcastindex.org/podcast/7136881)
   * [Code for Thought](https://codeforthought.buzzsprout.com/)
+
+* Sundry - These Summer Camps are designed for K-12 students to learn about HPC and CyberInfrastructure.
+  * [Reach the World (K-12 supercomputing)](https://reachtheworld.org/supercomputing-and-future-ai/journal/coding-high-school-building-movement?page=2)
+  * [Minnesota Food and Agriculture Summer Camp (Minn. Supercomputing Inst.)](https://msi.umn.edu/msi-research/msi-research-spotlights/food-agriculture-and-u-summer-camp, middle school, all expenses paid, NSF)
 
 * Sundry - Parody (grin).
   * [Journal of Astrological Big Data Ecology (similar to the old "Journal of Irreproducible Results")](https://jabde.com/)
