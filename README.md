@@ -357,7 +357,6 @@ spec:
   * [OpenMP (OpenMP)](https://www.openmp.org/)
   * [Open Accelerated Computing (OpenACC) (C/C++ optimizations for research, annual Summer conference)](https://www.openacc.org/)
   * [NumFOCUS (NumFOCUS) (open resource software practices)](https://numfocus.org/)
-  * [Open Source Science Initiative (OSSCi)](https://www.opensource.science/)
   * [Consortium for the Advancement of Scientific Software (CASS) (DoE sponsored)](https://cass.community/)
   * [Center for Open-Source Research Software Stewardship and Advancement (CORSA)](https://corsa.center/)
   * [LF AI & Data (AI Innovation)](https://lfaidata.foundation/)
@@ -408,6 +407,8 @@ spec:
   * [TRUST Principles for digital repositories (TRUST)](https://www.nature.com/articles/s41597-020-0486-7)
 
 * Sundry - These miscellaneous open source research-related resources should be of use to various individuals over time.
+  * [Open Source Science Initiative (OSSCi)](https://www.opensource.science/)
+  * [Research Software Alliance (ReSA)](https://www.researchsoft.org/)
   * [Research Data Alliance (RDA)](https://www.rd-alliance.org/)
   * [Center for Open Science - Open Software Foundation (OSF)](https://osf.io/)
   * [Digital Management Plan Tool (DMPTOOL)](https://dmptool.org/)
@@ -432,6 +433,7 @@ spec:
   * [Turing Way (Turing Way)](https://book.the-turing-way.org/)
   * [Digital Research Alliance of Canada](https://www.alliancecan.ca/en)
   * [International Conference on Scalable Scientific Data Management](https://ssdbm.org/2025/)
+  * [ecosyst.ms](https://ecosyste.ms/)
 
 * Sundry - These charitable organizations provide regular funding for HPC-related and scientific software.
   * [Chan/Zuckberberg Initiative (Essential Open Source Software for Science (Cycle 6))](https://chanzuckerberg.com/rfa/essential-open-source-software-for-science/)
@@ -440,7 +442,10 @@ spec:
   * [Simons Foundation (generally, math and physical sciences software)](https://wellcome.org/grant-funding)
   * [Sloan Foundation (generally, emerging technology of any type)](https://sloan.org/programs/digital-technology)
   * [Allen Institute (generally, technologies related to biology, neuroscience, and similar areas)](https://alleninstitute.org/)
+  * [Kapor Foundation (generally, technology equity) ](https://www.kaporcenter.org/kapor-foundation/)
+  * [William T. Grant Foundation (generally, reducing youth inequity)](https://wtgrantfoundation.org/)
   * [Code for Science and Society (generally, open source software)](https://www.codeforsociety.org/projects)
+  * [Open Source Collective (OSC)](https://opencollective.com/opensource)
 
 * Sundry - These peer-reviewed journals are outlets for HPC-related work.
   * [Journal of Open Source Software (JOSS)](https://joss.theoj.org/)
