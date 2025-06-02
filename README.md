@@ -119,6 +119,9 @@
   * Dr. Dung Vu (CSUSB)
   * Kyle Krick (SDSU)
   * Ravi Chalasani (CalPoly Humboldt)
+  * Willie Peng (CSU Fullerton)
+  * Kendra Ard (CSU Chancellor's Office)
+  * Matt Hughes (CSU Chancellor's Office)
 
 
 ## JupyterHub
