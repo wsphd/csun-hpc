@@ -115,11 +115,12 @@
   * Sonoma State - ChemCompute [NSF $1MM award article](https://news.sonoma.edu/article/ssu-professor-mark-perri-awarded-995786-national-science-foundation), [online resource](https://chemcompute.org/)
   * CalPoly Humboldt - [HPC Success Stories](https://its.humboldt.edu/research/high-performance-computing)
 
-* CSU help
+* Help from around the CSU
   * Dr. Dung Vu (CSUSB)
   * Kyle Krick (SDSU)
   * Ravi Chalasani (CalPoly Humboldt)
   * Willie Peng (CSU Fullerton)
+  * Bill Elbettar (CSU Dominguez Hills)
   * Kendra Ard (CSU Chancellor's Office)
   * Matt Hughes (CSU Chancellor's Office)
 
@@ -273,6 +274,7 @@ spec:
 
 | Name          | Venue         | Cost         |Timeframe         |
 | ------------- | ------------- |------------- |------------- |
+| [Southern California Linux Expo (C2TAG)](https://cenic.org/initiatives/c2tag)          | La Mirada, CA (and virtual)  | $0 (CENIC) | quarterly | 
 | [Research Computing at Smaller Institutions (RCSI)](https://rcsi.swarthmore.edu/)          | Swarthmore, PA  | $0 (NSF) | early June | 
 | [National Research Platform (NRP)](https://portal.nrp.ai/6nrp-workshop/)          | UCSD, CA  | $600 | late January | 
 | [Supercomputing (SC)](https://sc25.supercomputing.org/)          | St. Louis, Denver, Atlanta  | low $ | mid November | 
@@ -347,6 +349,8 @@ spec:
 ## Upskilling - Professional Associations/Societies
 
 * Faculty - These general-purpose HPC resources should be of use to _Faculty_ over time.
+  * [National Data Platform pilot (NDP)](https://nationaldataplatform.org/)
+  * [Open Science Data Federation (OSDF)](https://osg-htc.org/services/osdf)
   * [ACM HPC (ACMHPC)](https://www.sighpc.org/)
   * [Advanced Cyberinfrastructure - Research and Education Facilitators (ACI-REF)](https://aci-ref.github.io/)
   * [R OpenSci (ROpenSci)](https://ropensci.org/)
