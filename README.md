@@ -32,7 +32,7 @@
 * Public Cloud (AWS, GCP, MS-Azure, OCI, Digital Ocean, etc.)
   * Use "free-tier" (still need to provide a credit card)
   * Purchase credits with a credit card
-  * Scholars can ask for resources for substantive reseearch
+  * Scholars can ask for resources ("credits") for substantive reseearch (e.g., [Cloudbank Enterprise](https://cbe.ucsd.edu/))
 
 * Or?
   * NSF-funded, multi-year, inter-institution, STEAM/SocialSTEM, R3s/CCC's too
