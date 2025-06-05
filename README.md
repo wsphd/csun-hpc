@@ -348,7 +348,7 @@ spec:
 
 ## Upskilling - Professional Associations/Societies
 
-* Faculty - These general-purpose HPC resources should be of use to _Faculty_ over time.
+* Faculty - These general-purpose, multidiscplinary HPC resources should be of use to _Faculty_ over time.
   * [National Data Platform pilot (NDP)](https://nationaldataplatform.org/)
   * [Open Science Data Federation (OSDF)](https://osg-htc.org/services/osdf)
   * [ACM HPC (ACMHPC)](https://www.sighpc.org/)
@@ -380,6 +380,7 @@ spec:
   * Molecular Dynamics/Mechanical Forcefields - [AMBERMD (AMBERMD)](https://ambermd.org/)
   * 3D Creation/Gaming - [UnReal Engine (UNREAL)](https://www.unrealengine.com/en-US)
   * Mathematical Optimization - [HiGHS Solver (HiGHS)](https://highs.dev/)
+  * Earth Sciences - [Open, Reproducible, and Scalable Geoscience (PanGeo)](https://pangeo.io/)
 
 * Staff - These HPC resources should be of use to _Staff_ over time.
   * [US Research Software Engineering Association (US-RSE)](https://us-rse.org/)
