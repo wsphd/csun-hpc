@@ -116,13 +116,12 @@
   * CalPoly Humboldt - [HPC Success Stories](https://its.humboldt.edu/research/high-performance-computing)
 
 * Help from around the CSU
-  * Dr. Dung Vu (CSUSB)
-  * Kyle Krick (SDSU)
-  * Ravi Chalasani (CalPoly Humboldt)
-  * Willie Peng (CSU Fullerton)
-  * Bill Elbettar (CSU Dominguez Hills)
-  * Kendra Ard (CSU Chancellor's Office)
-  * Matt Hughes (CSU Chancellor's Office)
+  * CSU Chancellor's Office - Matt Hughes (Engineering), Kendra Ard (Applications)
+  * CalPoly Humboldt - Ravi Chalasani (Engineering and Applications)
+  * CSU Dominguez Hills - Bill Elbettar (Engineering and Applications)
+  * CSU Fullerton - Willie Peng (Engineering and Applications), Dhusdee Chandswang (Identity Management)
+  * CSU San Bernardino - Dr. Dung Vu (Engineering and Applications)
+  * San Diego State - Kyle Krick (Applications)
 
 
 ## JupyterHub
