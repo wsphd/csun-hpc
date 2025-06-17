@@ -310,6 +310,7 @@ spec:
 | [INTERSECT Research Software training (INTERSECT)](https://intersect-training.org/index.html)          | Princeton/Alabama  | $0 (NSF) | mid July |
 | [SHINE Workshop (SHINE)](https://helioshine.org/the-developing-heliophysics-standards-and-cross-science-collaborations-workshop/)          | Iowa City  | $0 fees | mid August |
 | [ESIIL Innovation Summit (ESIIL)](https://cu-esiil.github.io/Innovation-Summit-2025/)          | U of Colorado  | $0 fees, $0 (NSF) | late September |
+| [Building Research Innovation at Community Colleges - Research Data Management (BRICCs-RDM)](https://hprc.tamu.edu/briccs/workshop_2025_summer.html)          | Texas A&M  | $0 (NSF) | early July |
 
 
 * There are plenty of _virtual_ events for learning about HPC resources.
