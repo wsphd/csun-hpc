@@ -410,7 +410,7 @@ spec:
   * [mmWave 5G - high band](https://www.digitaltrends.com/mobile/what-is-mmwave-high-band-5g-explained/)
 
 * Sundry - These HPC resources related to scientific and research _metadata_ should be of use to various individuals over time.
-  * [FAIR Guiding Principles for scientific data management and stewardship (FAIR)](https://www.go-fair.org/fair-principles/)
+  * FAIR Guiding Principles for scientific data management and stewardship (FAIR) - Nature article (https://www.nature.com/articles/s41597-022-01710-x), website (https://www.go-fair.org/fair-principles/)
   * [CARE Principles for Indigenous Data Governance (CARE)](https://www.gida-global.org/care)
   * [TRUST Principles for digital repositories (TRUST)](https://www.nature.com/articles/s41597-020-0486-7)
 
@@ -425,6 +425,7 @@ spec:
   * [Free and Open Source Software Yearly Conference (FOSSY)](https://2025.fossy.us/)
   * [HPC Social (HPC community development)](https://hpc.social/)
   * [Openscapes](https://openscapes.org/)
+  * [NIH Generalist Repository Ecosystem Initiative (GREI)](https://datascience.nih.gov/data-ecosystem/generalist-repository-ecosystem-initiative)
 
 * Sundry - These resources related to _domestic_ open science/reproducibility should be of use to various individuals over time.
   * [Science Philanthropy Alliance](https://sciencephilanthropyalliance.org/)
