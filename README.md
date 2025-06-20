@@ -117,11 +117,11 @@
 
 * Help from around the CSU
   * CSU Chancellor's Office - Matt Hughes (Engineering), Kendra Ard (Applications)
-  * CalPoly Humboldt - Ravi Chalasani (Engineering and Applications)
+  * Cal Poly Humboldt - Ravi Chalasani (Engineering and Applications)
   * CSU Dominguez Hills - Bill Elbettar (Engineering and Applications)
   * CSU Fullerton - Willie Peng (Engineering and Applications), Dhusdee Chandswang (Identity Management)
   * CSU San Bernardino - Dr. Dung Vu (Engineering and Applications)
-  * San Diego State - Kyle Krick (Applications)
+  * San Diego State - Henry Li (Engineering/especially CENIC AIR-TIDE), Kyle Krick (Applications)
 
 
 ## JupyterHub
