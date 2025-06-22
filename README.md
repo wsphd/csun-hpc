@@ -120,7 +120,7 @@
   * Cal Poly Humboldt - Ravi Chalasani (Engineering and Applications)
   * CSU Dominguez Hills - Bill Elbettar (Engineering and Applications)
   * CSU Fullerton - Willie Peng (Engineering and Applications), Dhusdee Chandswang (Identity Management)
-  * CSU San Bernardino - Dr. Dung Vu (Engineering and Applications)
+  * CSU San Bernardino - Dung Vu (Engineering and Applications), Nabeel Alzahrani (Data)
   * San Diego State - Henry Li (Engineering/especially CENIC AIR-TIDE), Kyle Krick (Applications)
 
 
