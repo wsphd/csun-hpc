@@ -419,6 +419,7 @@ spec:
   * [Open Source Science Initiative (OSSCi)](https://www.opensource.science/)
   * [Research Software Alliance (ReSA)](https://www.researchsoft.org/)
   * [Research Data Alliance (RDA)](https://www.rd-alliance.org/)
+  * [Research Data Access and Preservation (RDAP)](https://rdapassociation.org/)
   * [Center for Open Science - Open Software Foundation (OSF)](https://osf.io/)
   * [Digital Management Plan Tool (DMPTOOL)](https://dmptool.org/)
   * [UC Open Source Program Offices)](https://www.socallinuxexpo.org/scale/22x/presentations/building-network-open-source-program-offices-university-california)
