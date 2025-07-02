@@ -445,6 +445,7 @@ spec:
   * [Digital Research Alliance of Canada](https://www.alliancecan.ca/en)
   * [International Conference on Scalable Scientific Data Management](https://ssdbm.org/2025/)
   * [ecosyst.ms](https://ecosyste.ms/)
+  * [WorkflowHub Registry (WorkflowHub](https://workflowhub.eu/)
 
 * Sundry - These charitable organizations provide regular funding for HPC-related and scientific software.
   * [Chan/Zuckberberg Initiative (Essential Open Source Software for Science (Cycle 6))](https://chanzuckerberg.com/rfa/essential-open-source-software-for-science/)
