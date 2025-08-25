@@ -274,7 +274,7 @@ spec:
 
 | Name          | Venue         | Cost         |Timeframe         |
 | ------------- | ------------- |------------- |------------- |
-| [Southern California Linux Expo (C2TAG)](https://cenic.org/initiatives/c2tag)          | La Mirada, CA (and virtual)  | $0 (CENIC) | quarterly | 
+| [CENIC Community Technology Affinity Group (C2TAG)](https://cenic.org/initiatives/c2tag)          | La Mirada, CA (and virtual)  | $0 (CENIC) | quarterly | 
 | [Research Computing at Smaller Institutions (RCSI)](https://rcsi.swarthmore.edu/)          | Swarthmore, PA  | $0 (NSF) | early June | 
 | [National Research Platform (NRP)](https://portal.nrp.ai/6nrp-workshop/)          | UCSD, CA  | $600 | late January | 
 | [Supercomputing (SC)](https://sc25.supercomputing.org/)          | St. Louis, Denver, Atlanta  | low $ | mid November | 
