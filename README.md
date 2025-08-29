@@ -467,6 +467,9 @@ spec:
 * Sundry - These certifications can be helpful for professional development in HPC-related work.
   * [Certified Cyberinfrastructure Facilitator Training and Development (CCIFTD)](https://coco.cyberinfrastructure.org/organizations/certified-cyberinfrastructure-facilitator-training-and-development)
 
+* Sundry - This the main Job Board (and links to other Job Boards) for career opportunities in Research Software Engineering work.
+  * [RSE Job Board (RSE)](https://us-rse.org/jobs/)
+
 * Sundry - These podcasts can be helpful learning tools for HPC-related work.
   * [JOSSCast: Open Source for Researchers (JOSSCast)](https://podcastindex.org/podcast/6765019)
   * [UCL for Code in Research (C++ course at U Col London)](https://podcastindex.org/podcast/7136881)
