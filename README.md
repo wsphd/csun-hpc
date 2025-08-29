@@ -449,6 +449,7 @@ spec:
 
 * Sundry - These charitable organizations provide regular funding for HPC-related and scientific software.
   * [Chan/Zuckberberg Initiative (Essential Open Source Software for Science (Cycle 6))](https://chanzuckerberg.com/rfa/essential-open-source-software-for-science/)
+  * [Pasteur Labs](https://pasteurlabs.ai/)
   * [Kavli Foundation (general science)](https://www.kavlifoundation.org/funding-opportunities)
   * [Wellcome Trust (generally, health-related research software](https://wellcome.org/grant-funding)
   * [Simons Foundation (generally, math and physical sciences software)](https://wellcome.org/grant-funding)
