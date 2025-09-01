@@ -95,9 +95,10 @@
   * Cloud and Infrastructure design and management
   * Workforce development (full stack)
 
-* Dr. Nicholas Kioussis (Physics)
-  * CalTech Quantum Computing (and others)
-  * Materials Science
+* Akash Gupta (Systems and Operations Management)
+  * Analytical workflows
+  * Instruction
+  * Workforce development (application-layer)
 
 * Wayne Smith (Management)
   * ACCESS and NRP
@@ -229,6 +230,9 @@ spec:
 
 * Start here:
   * Send Wayne an email - <ws@csun.edu>
+
+* Online Training (synchronous and asynchronous):
+  * [NRP Training](https://nrp.ai/training/)
 
 
 ## Additional Resources
