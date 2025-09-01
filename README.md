@@ -231,8 +231,9 @@ spec:
 * Start here:
   * Send Wayne an email - <ws@csun.edu>
 
-* Online Training (synchronous and asynchronous):
-  * [NRP Training](https://nrp.ai/training/)
+* Community:
+  * [NRP Training-synchronous and asynchronous](https://nrp.ai/training/)
+  * [Weekly Engineering Meetings via Zoom-every Thursday at 10am Pacific](https://urldefense.com/v3/__https://ucsd.zoom.us/j/92594899876__;!!Mih3wA!GaNL5JR7JqobJsauQWmG4hpIOXoMjOmPcSJFTPGYGH4M7T6pBlQdYX6jj1KAd5Xa67os4ssiX-aq0bcd6w$)
 
 
 ## Additional Resources
