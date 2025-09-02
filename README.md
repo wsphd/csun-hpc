@@ -7,13 +7,6 @@
 **"High-Performance Computing (Resources and Capabilities)**\
 **California State University, Northridge (CSUN)**
 
-**Friday, April 11, 2025**\
-**CSUN Faculty Retreat - Odyssey Restaurant**
-
-**Wayne Smith, Ph.D., _Department of Management_, <ws@csun.edu>**
-
-(Note: This page is also available in alternate formats - [.pdf](alt-formats/csun-hpc.pdf), [.odt](alt-formats/csun-hpc.odt), and [.docx](alt-formats/csun-hpc.docx))  
-
 
 ## Introduction/Background/Motivation
 
@@ -329,6 +322,7 @@ spec:
 | [CI Pathways (NCSA)](https://ai.ncsa.illinois.edu/news-events/2025/02/ci-pathways-spring-2025/)          | virtual, asynchronous | $0 | on-going | 
 | [Cornell Roadmaps](https://cvw.cac.cornell.edu/roadmaps)          | virtual  | $0 | asynchronous, on-going | 
 | [HPC Carpentry](https://www.hpc-carpentry.org/)          | in-person and virtual, synchronous  | $0 | varies | 
+| [Code Refinery](https://coderefinery.org/)          | in-person and virtual, synchronous  | $0 | varies | 
 | [Ecosystem for Research Networking (ERN) Summit](https://docs.google.com/forms/d/e/1FAIpQLSfK9U0vi7IuUETzW3EsRpsC7GfwKdNlkNoa1XuK6Q5NhtbQaA/viewform)          | virtual, synchronous only | $0 | late April | 
 | [Oklahoma University ACI-REF Virtual Residency (Henry Neeman)](https://shareok.org/collections/f2d21d11-57f4-461d-b69b-ed80c93c632b)          | virtual | $0 | recurring | 
 | [(comprehensive, searchable list of resources](https://campuschampions.cyberinfrastructure.org/knowledge-base/resources)          | N/A  | $0 | varies | 
