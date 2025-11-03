@@ -126,8 +126,10 @@
   * _governance_: funded by NSF, provisioned by Cloudbank, managed by 2i2c, supported by UC Berkeley 
   * _hardware_: basic access
   * _software_: R/RStudio, Python, Shiny, Linux terminal, generic notebooks
+  * [Documentation]<https://docs.cal-icor.org/content/index.html>
+  * [Support (Sean Michael Harris](mailto:sean.smorris@berkeley.edu)
   * _log in_: Select "California State University, Northridge" and then log in is via CILOGON (just log in as usual)
-  * Start here: [CAL-ICOR]<https://csun.cloudbank.2i2c.cloud/>
+  * Start here: [CAL-ICOR]<https://csun.jupyter.cal-icor.org/>
 
 * CSU Technology Infrastructure for Exploration ("TIDE")
   * _governance_: funded by NSF, provisioned by NRP, managed/supported by SDSU
