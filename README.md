@@ -233,11 +233,23 @@ spec:
 
 ## Additional Resources
 
-* Sometimes, researchers just need an unmanaged or managed (by students, supervised by faculty) resource to host public-facing files and applications
-  * [Oregon State University Open Source Lab (OSL)](https://osuosl.org/)
+* Energy-related researchers have access to some of most sophisticated HPC resources in the U.S.
+  * [Argonne Leadership Computing Facility (ALCF) AI Testbed](https://www.alcf.anl.gov/alcf-ai-testbed)
+  * [National Energy Research Scientific Computing Center (NERSC)](https://www.nersc.gov/)
+  * [Oak Ridge Leadership Computing Facility (OLCF)](https://www.olcf.ornl.gov/)
+  * [American Science Cloud (AmSC)](https://american-science-cloud.github.io/amsc-site/)
 
-* Recently, CSUN was added to the Cloudbank/2i2C JupyterHub resource (this complements CSUN Apporto and SDSU/CSUSB TIDE)
-  * [Cal-ICOR JupyterHub Pilot](https://csun.cloudbank.2i2c.cloud/)
+* NIH-related researchers have access to dedicated resources (public hyperscalers) partly to help with CUI, PII, and HIPPA compliance.
+  * [NIH Cloud Lab (STRIDES)](https://cloud.nih.gov/resources/cloudlab/)
+
+* PIs with funding can use the PATh resources
+  * [PATh High-Throughput Computing (PATh)](https://path-cc.io/)
+
+* Networking (Layer 2, P4, QoS, low latency, advanced wireless, etc.)-related researchers sometimes need specialized HPR resources
+  * [FABRIC is Adaptive ProgrammaBle Research Infrastructure for Computer Science and Science Applications (FABRIC)](https://portal.fabric-testbed.net/)
+
+* Sometimes, researchers just need an unmanaged or managed (by students, supervised by staff/faculty) resource to host public-facing projects, applications, and files
+  * [Oregon State University Open Source Lab (OSL)](https://osuosl.org/)
 
 * Increasingly, Libretexts is moving beyond "texts" and becoming a complete LMS solution, including a JupyterHub resource
   * General System - [LibreTexts](https://libretexts.org/)
@@ -250,7 +262,7 @@ spec:
   * [NSF National Artificial Intelligence Research Resource Pilot (NAIIR)](https://nairrpilot.org/)
 
 * Some researchers desire an AI system that _is_ open, transparent, and reproducible (built _bottom-up_)
-  * [Non-Profit Personal AI Lab (Kwaai)](https://www.kwaai.ai/)
+  * [Non-Profit Personal/Decentralized AI Lab (Kwaai)](https://www.kwaai.ai/)
 
 
 ## Conferences/Fellowships
@@ -262,6 +274,7 @@ spec:
 | [Practice & Experience in Advanced Research Computing<br>(PEARC)](https://pearc.acm.org/)          | varies  | mid $ | late July | 
 | [RCD Nexus Day (precedes PEARC)](https://carcc.org/2025/03/31/register-now-for-rcd-nexus-day-at-pearc25/)          | varies  | $0 | late July | 
 | [Science Gateways Community Institute (SGCI)](https://sciencegateways.org/gateways2025)          | varies  | $0 (NSF) | varies | 
+| [A Center of Excellence in Science Gateways (SGX3)](https://sciencegateways.org/publications/13/versions/1)          | varies  | $0 (NSF) | varies | 
 | [Confab (DOE)](https://confab25.es.net/)          | varies  | low $ | early April | 
 | [Institute for Mathematical and Statistical Innovation (IMSI)](https://www.imsi.institute/)          | varies  | $0 (NSF) | varies | 
 | [US-RSE Conference (US-RSE)](https://us-rse.org/usrse25/)          | varies  | $0 (Sloan) | early October | 
@@ -276,6 +289,7 @@ spec:
 | ------------- | ------------- |------------- |------------- |
 | [CENIC Community Technology Affinity Group (C2TAG)](https://cenic.org/initiatives/c2tag)          | La Mirada, CA (and virtual)  | $0 (CENIC) | quarterly | 
 | [Research Computing at Smaller Institutions (RCSI)](https://rcsi.swarthmore.edu/)          | Swarthmore, PA  | $0 (NSF) | early June | 
+| [Intersect Training (INTERSECT)](https://intersect-training.org/bootcamp26-announce/)          | Princeton, NJ  | $0 (NSF) | mid June | 
 | [National Research Platform (NRP)](https://portal.nrp.ai/6nrp-workshop/)          | UCSD, CA  | $600 | late January | 
 | [Supercomputing (SC)](https://sc25.supercomputing.org/)          | St. Louis, Denver, Atlanta  | low $ | mid November | 
 | [Corporation for Networking and Research (CENIC)](https://cenic.org/events)          | varies  | low $ | late March | 
@@ -283,7 +297,7 @@ spec:
 | [Rocky Mountain Advanced Computing Consortium (RMACC)](https://rmacc.org/)          | Boulder, CO  | low $ | late May | 
 | [OpenInfraDays (OpenInfra at SCaLE)](https://www.socallinuxexpo.org/scale/22x/events/open-infra-days)          | Pasadena, CA  | low $ | early March | 
 
-* And the list of _International_ events for learning about HPC resources is growing quickly.
+* And the list of _International_ events for learning about HPC resources is growing quickly.  The following is a representative sample.
 
 | Name          | Venue         | Cost         |Timeframe         |
 | ------------- | ------------- |------------- |------------- |
@@ -307,7 +321,7 @@ spec:
 | [Throughput Computing Week (HTC25)](https://agenda.hep.wisc.edu/event/2297/overview)          | in-person (U. of Wisc./Madison) and virtual | $125 in-person, $0 virtual | early June  | 
 | [HPC and Data Science Summer Institute (SDSC)](https://na.eventscloud.com/website/83760/)          | UCSD, CA  | $350 | late July - early August |
 | [NERSC International HPC Summer School (NERSC)](https://www.nersc.gov/users/training/events/2025/international-hpc-summer-school-july-2025/)          | varies  | $0 (DOE) | early July |
-| [KNIT (FABRIC)](https://knit.fabric-testbed.net/)          | varies  | $0 (NSF) | mid March 
+| [KNIT Community Workshop (FABRIC)](https://knit.fabric-testbed.net/)          | varies  | $0 (NSF) | mid March
 | [INTERSECT Research Software training (INTERSECT)](https://intersect-training.org/index.html)          | Princeton/Alabama  | $0 (NSF) | mid July |
 | [SHINE Workshop (SHINE)](https://helioshine.org/the-developing-heliophysics-standards-and-cross-science-collaborations-workshop/)          | Iowa City  | $0 fees | mid August |
 | [ESIIL Innovation Summit (ESIIL)](https://cu-esiil.github.io/Innovation-Summit-2025/)          | U of Colorado  | $0 fees, $0 (NSF) | late September |
@@ -337,11 +351,12 @@ spec:
   * [Office of Advanced Cyberinfrastructure (OAC))](https://www.nsf.gov/cise/oac)
   * [Campus Cyberinfrastructure (CC*)](https://www.nsf.gov/funding/opportunities/cc-campus-cyberinfrastructure)
   * [Broadening Participation in Computing Initiative (BPC))](https://www.nsf.gov/funding/opportunities/bpc-broadening-participation-computing/505891/nsf21-571)
+  * [Strengthening the Cyberinfrastructure Professionals Ecosystem (SCIPE)](https://www.nsf.gov/funding/opportunities/strengthening-cyberinfrastructure-professionals-ecosystem/506137/nsf23-521/solicitation)
   * [Opportunities for Early-Career Researchers (EAGER))](https://www.nsf.gov/funding/early-career-researchers)
 * NIH - These are the chief areas of funding for HPC resources from the _National Institutes of Health_.
-  * (tbd)
+  * (see "Resources" listed previously)
 * DoE - These are the chief areas of funding for HPC resources from the _Dept. of Energy_.
-  * (tbd)
+  * (see "Resources" listed previously)
 * DoD - These are the chief areas of funding for HPC resources from the _Dept. of Defense_.
   * (tbd)
 * NASA - These are the chief areas of funding for HPC resources from the _National Aerospace and Space Agency_.
@@ -450,6 +465,7 @@ spec:
 
 * Sundry - These charitable organizations provide regular funding for HPC-related and scientific software.
   * [Chan/Zuckberberg Initiative (Essential Open Source Software for Science (Cycle 6))](https://chanzuckerberg.com/rfa/essential-open-source-software-for-science/)
+  * [Schmidt Sciences](https://www.schmidtsciences.org/)
   * [Pasteur Labs](https://pasteurlabs.ai/)
   * [Kavli Foundation (general science)](https://www.kavlifoundation.org/funding-opportunities)
   * [Wellcome Trust (generally, health-related research software](https://wellcome.org/grant-funding)
