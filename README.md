@@ -22,10 +22,18 @@
   * Usually located in the on-campus CSUN MDF
   * CSUN IT usually racks and networks the system; Users manage the system and applications
 
-* Public Cloud (AWS, GCP, MS-Azure, OCI, Digital Ocean, etc.)
+* Public Cloud "free" scholars/learners (AWS, GCP, MS-Azure, OCI, Digital Ocean, etc.)
   * Use "free-tier" (still need to provide a credit card)
   * Purchase credits with a credit card
-  * Scholars can ask for resources ("credits") for substantive reseearch (e.g., [Cloudbank Enterprise](https://cbe.ucsd.edu/))
+
+* Public Cloud "grants/credits" for scholars (AWS, GCP, MS-Azure, IBM, OCI, Digital Ocean, etc.)
+  * [Cloudbank Enterprise](https://cbe.ucsd.edu/)
+  * [AWS Cloud Credits for Research (AWS)](https://aws.amazon.com/grants/)
+  * [Google AI for Science (Google)](https://blog.google/innovation-and-ai/technology/ai/ai-science-forum-2024/)
+  * [Oracle Cloud Infrastructure (OCI)](https://www.oracle.com/a/ocom/docs/corporate/research-application-example.pdf)
+  * [MS Azure Quantum Credits (Azure)](https://microsoft.qualtrics.com/jfe/form/SV_3fl9dfFrkC3g0aG?aq_source=acom)
+  * [IBM Quantum Credits (IBM)](https://www.ibm.com/quantum/blog/quantum-credits)
+  * [Digital Ocean Credits (Digital Ocean)](https://www.digitalocean.com/open-source/credits-for-projects)
 
 * Or?
   * NSF-funded, multi-year, inter-institution, STEAM/SocialSTEM, R3s/CCC's too
@@ -240,9 +248,9 @@ spec:
   * [American Science Cloud (AmSC)](https://american-science-cloud.github.io/amsc-site/)
 
 * NIH-related researchers have access to dedicated resources (public hyperscalers) partly to help with CUI, PII, and HIPPA compliance.
-  * [NIH Cloud Lab (STRIDES)](https://cloud.nih.gov/resources/cloudlab/)
+  * [NIH Cloud Lab - Science and Technology Research Infrastructure for Discovery, Experimentation, and Sustainability (STRIDES)](https://cloud.nih.gov/resources/cloudlab/)
 
-* PIs with funding can use the PATh resources
+* This resource is computationally-intensive PIs; however, some resources require funding
   * [PATh High-Throughput Computing (PATh)](https://path-cc.io/)
 
 * Networking (Layer 2, P4, QoS, low latency, advanced wireless, etc.)-related researchers sometimes need specialized HPR resources
@@ -282,6 +290,7 @@ spec:
 | [1st Workshop on Workflows, Intelligent Scientific Data, and Optimization for Automated Management (WISDOM)](https://workflows.community/workshops/wisdom-2025/)          | San Diego  | mid $ | early September | 
 | [Researcher Workshop (ACES)](https://hprc.tamu.edu/aces/aces_workshop_2025.html)          | Columbus, OH | $0 (NSF) | mid-July | 
 | [JupyterCon 2025 (JupyterCon)](https://events.linuxfoundation.org/jupytercon/)          | San Diego  | mid $ | early November |
+| [Research Evaluation and Analytics Capacity Hub (REACH)](https://reach.uky.edu/summit)          | (varies)  | $0 (NSF) | late April |
 
 * There are plenty of zero-cost and low-cost U.S. domestic events for learning about HPC resources at the _Infrastructure_-level.
 
@@ -307,6 +316,7 @@ spec:
 
 * The following are some of the Fellowships available:
   * [ICICLE: Intelligent CI with Computational Learning in the Environment (ICICLE)](https://icicle.osu.edu/education-and-outreach/icicle-educational-fellows-program)
+  * [SSw Fellowship Program (BSSw)](https://bssw.io/pages/bssw-fellowship-program)
 
 
 ## National Workshops
@@ -372,6 +382,7 @@ spec:
   * [Advanced Cyberinfrastructure - Research and Education Facilitators (ACI-REF)](https://aci-ref.github.io/)
   * [R OpenSci (ROpenSci)](https://ropensci.org/)
   * [PyOpenSci (pyOpenSci)](https://www.pyopensci.org/)
+  * [PREreview -  Open PrePrint Reviews (PREreview)](https://prereview.org/)
   * [SciPyi (SciPy)](https://www.scipy2025.scipy.org/)
   * [JuliaCon (annual Summer conference abstracts, proceedings)](https://juliacon.org/2025/)
   * [Consortium for Advanced Data Assimilation Research and Education (CADRE)](https://ucadre.org/)
@@ -396,8 +407,12 @@ spec:
   * Fluid Dynamics - [OpenFOAM (OpenFOAM)](https://www.openfoam.com/)
   * Molecular Dynamics/Mechanical Forcefields - [AMBERMD (AMBERMD)](https://ambermd.org/)
   * 3D Creation/Gaming - [UnReal Engine (UNREAL)](https://www.unrealengine.com/en-US)
+  * Visual Immersion and Sharing - [Smart Amplified Group Environment) (SAGE3)](https://github.com/SAGE-3)
   * Mathematical Optimization - [HiGHS Solver (HiGHS)](https://highs.dev/)
   * Earth Sciences - [Open, Reproducible, and Scalable Geoscience (PanGeo)](https://pangeo.io/)
+  * Earth Science - [Climate Sensitive Infectious Disease (CSID) Network](https://csidnet.org/)
+  * Scientific UI/UX Development - Strudel Science (STRUDEL)](https://strudel.science/)
+  * Pegaus Scientific Workflow Management (PEGASUS)](https://pegasus.isi.edu/)
 
 * Staff - These HPC resources should be of use to _Staff_ over time.
   * [US Research Software Engineering Association (US-RSE)](https://us-rse.org/)
@@ -409,6 +424,7 @@ spec:
   * [CyberAmbassadors](https://sites.google.com/msu.edu/cyberambassadors/home)
   * [OpenOnDemand](https://openondemand.org/)
   * [Internet2 Research Engagement](https://internet2.edu/community/research-engagement/research-community/)
+  * [Internet2 Emerging Leaders Scholarship (I2EL)](https://internet2.edu/community/community-leadership-and-culture-initiative/emerging-leaders-scholarship-program/)
   * [Internet2 NET+](https://internet2.edu/cloud/internet2-net-plus-services/)
   * [EDUCAUSE Research Computing and Data Community Group (RCD)](https://www.educause.edu/community/research-computing-and-data-community-group)
   * [ACM SIGHPC Syspros (SIGHPC-Syspros)](https://sighpc-syspros.org/)
@@ -416,6 +432,7 @@ spec:
 * Administration - These HPC resources should be of use to _Administration_ over time.
   * [Coalition for Academic Scientific Computing (CASC)](https://casc.org/)
   * [Research Software Alliance (ReSA)](https://www.researchsoft.org/)
+  * [Internet2 Higher Education Cloud Forum (HECF)](https://internet2.edu/cloud-forum/)
 
 * Sundry - These HPC resources related to _networking_ should be of use to various individuals over time.
   * [ES NET (DOE)](https://www.es.net/)
@@ -441,13 +458,19 @@ spec:
   * [UC Open Source Program Offices)](https://www.socallinuxexpo.org/scale/22x/presentations/building-network-open-source-program-offices-university-california)
   * [Professional Development for Instructors Interested in Student Participation in Humanitarian Free and Open Source Software (POSSE)](https://teachingopensource.org/POSSE)
   * [Free and Open Source Software Yearly Conference (FOSSY)](https://2025.fossy.us/)
+  * [Open Community Experience (OSX)](https://www.ocxconf.org/)
   * [HPC Social (HPC community development)](https://hpc.social/)
   * [Openscapes](https://openscapes.org/)
   * [NIH Generalist Repository Ecosystem Initiative (GREI)](https://datascience.nih.gov/data-ecosystem/generalist-repository-ecosystem-initiative)
+  * [Open Source Collective (OSC)](https://opencollective.com/opensource)
+  * [ecosyse.ms](https://ecosyste.ms/)
+  * [Distribits Live (distribits)](https://www.distribits.live/)
+  * [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
 
 * Sundry - These resources related to _domestic_ open science/reproducibility should be of use to various individuals over time.
   * [Science Philanthropy Alliance](https://sciencephilanthropyalliance.org/)
-  * [Crossref (Crossref](https://www.crossref.org/)
+  * [Crossref (Crossref)](https://www.crossref.org/)
+  * [Diamond Open Access (Diamond)](https://www.unesco.org/en/diamond-open-access)
 
 * Sundry - These resources related to _international_ open science/reproducibility should be of use to various individuals over time.
   * [Open Software Initiative (OSI)](https://opensource.org/)
@@ -476,6 +499,7 @@ spec:
   * [William T. Grant Foundation (generally, reducing youth inequity)](https://wtgrantfoundation.org/)
   * [Code for Science and Society (generally, open source software)](https://www.codeforsociety.org/projects)
   * [Open Source Collective (OSC)](https://opencollective.com/opensource)
+  * [The Neuro - Irv and Helga Cooper Foundation](https://www.mcgill.ca/neuro/open-science/open-science-awards-and-prizes/neuro-irv-and-helga-cooper-foundation-open-science-prizes)
 
 * Sundry - These peer-reviewed journals are outlets for HPC-related work.
   * [Journal of Open Source Software (JOSS)](https://joss.theoj.org/)
