@@ -487,7 +487,7 @@ spec:
   * [ecosyst.ms](https://ecosyste.ms/)
   * [WorkflowHub Registry (WorkflowHub](https://workflowhub.eu/)
 
-* Sundry - These charitable organizations provide regular funding for HPC-related and scientific software.
+* Sundry - These charitable organizations occasionally provide funding for HPC-related and scientific software.
   * [Chan/Zuckberberg Initiative (Essential Open Source Software for Science (Cycle 6))](https://chanzuckerberg.com/rfa/essential-open-source-software-for-science/)
   * [Schmidt Sciences](https://www.schmidtsciences.org/)
   * [Pasteur Labs](https://pasteurlabs.ai/)
@@ -499,8 +499,8 @@ spec:
   * [Kapor Foundation (generally, technology equity) ](https://www.kaporcenter.org/kapor-foundation/)
   * [William T. Grant Foundation (generally, reducing youth inequity)](https://wtgrantfoundation.org/)
   * [Code for Science and Society (generally, open source software)](https://www.codeforsociety.org/projects)
-  * [Open Source Collective (OSC)](https://opencollective.com/opensource)
-  * [The Neuro - Irv and Helga Cooper Foundation](https://www.mcgill.ca/neuro/open-science/open-science-awards-and-prizes/neuro-irv-and-helga-cooper-foundation-open-science-prizes)
+  * [The Neuro - Irv and Helga Cooper Foundation (generally, open science)](https://www.mcgill.ca/neuro/open-science/open-science-awards-and-prizes/neuro-irv-and-helga-cooper-foundation-open-science-prizes)
+  * [The Navigation Fund (generally, open science)](https://www.navigation.org/)
 
 * Sundry - These peer-reviewed journals are outlets for HPC-related work.
   * [Journal of Open Source Software (JOSS)](https://joss.theoj.org/)
