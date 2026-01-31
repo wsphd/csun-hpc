@@ -399,6 +399,7 @@ spec:
   * [Open Molecular Software Foundation (OMSF)](https://omsf.io/)
   * [ZENODO (open data/scholarship/publication repository - managed by CERN and OpenAIRE)](https://zenodo.org/)
   * [Software Carpentries (software engineering)](https://software-carpentry.org/)
+  * [The Carpentries (data science and coding)](https://carpentries.org/)
   * [Massachusetts Green High Performance Computing Center (MGHPCC)](https://www.mghpcc.org/)
   * [Workflows Community)](https://workflows.community/)
   * (and check your discipline's pre-conference workshops and related conference themes for HPC events)
