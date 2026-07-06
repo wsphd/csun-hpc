@@ -118,12 +118,19 @@
   * CalPoly Humboldt - [HPC Success Stories](https://its.humboldt.edu/research/high-performance-computing)
 
 * Help from around the CSU
-  * CSU Chancellor's Office - Matt Hughes (Engineering), Kendra Ard (Applications)
-  * Cal Poly Humboldt - Ravi Chalasani (Engineering and Applications)
+  * CSU Chancellor's Office - Matt Hughes (Engineering), Kendra Ard (Applications), Carol Kiliany (Systemwide RCTA group coordination)
+  * Cal Poly Humboldt - Ravi Chalasani (Applications), Casey Hefner (Engineering), Cade Webb (Admin), Bethany Gilden (Admin)
+  * Cal Poly Pomona - Alex Harwood (Admin), David Drivdahl (Applications), Curtis Carpenter (Engineering and Applications)
+  * CSU Bakersfield - Alberto Cruz (Applications), Brian Chen (Admin), Chris Diniz (Admin), Charles Lam (Applications), Ernest Richards (Engineering), Nick Rowland (Engineering), Joe Nailor (Engineering), Jaimi Paschal (Applications), Anjana Yatawara (Applications)
+  * CSU Chico - Scott Clavarie (Engineering), Elbert Chan (Engineering)
   * CSU Dominguez Hills - Bill Elbettar (Engineering and Applications)
-  * CSU Fullerton - Willie Peng (Engineering and Applications), Dhusdee Chandswang (Identity Management)
-  * CSU San Bernardino - Dung Vu (Engineering and Applications), Nabeel Alzahrani (Data)
-  * San Diego State - Henry Li (Engineering/especially CENIC AIR-TIDE), Kyle Krick (Applications)
+  * CSU Fresno - Bao John (Admin), Vinay Gowdra-Halappa (Engineering)
+  * CSU Fullerton - Willie Peng (Admin and Engineering), Dhusdee Chandswang (Identity Management)
+  * CSU Monterey Bay - Rick Sibinski (Engineering)
+  * CSU Northridge - Zack Hillbruner (IT, Engineering), Yolanda Barrett (ECS, Applications)
+  * CSU Sacramento - Peggy Kay (Admin), Mark Hendricks (Admin), Carl Oakes (Engineering)
+  * CSU San Bernardino - Dung Vu (Engineering and Applications), James Macdonnell (Applications), Nabeel Alzahrani (Data), Samuel Sudhaker (Admin), Gerald Au (Admin)
+  * San Diego State - Henry Li (Engineering/especially CENIC AIR-TIDE), Kyle Krick (Applications), Michael Farley (Admin), James Frazee (Admin), Anthony Harris (Engineering)
 
 
 ## JupyterHub
